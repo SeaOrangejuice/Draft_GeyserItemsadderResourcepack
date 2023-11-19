@@ -1,0 +1,33 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:beef": [
+            {
+                "name": "sandwiches_rawslicedsteak",
+                "allow_offhand": true,
+                "icon": "rawslicedsteak",
+                "custom_model_data": 10000
+            }
+        ],
+        "minecraft:cooked_beef": [
+            {
+                "name": "sandwiches_philly_cheese_steak",
+                "allow_offhand": true,
+                "icon": "phillycheesesteak",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "sandwiches_hamandcheese",
+                "allow_offhand": true,
+                "icon": "hamandcheese",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "sandwiches_slicedsteak",
+                "allow_offhand": true,
+                "icon": "slicedsteak",
+                "custom_model_data": 10002
+            }
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:wheat_seeds": [
+            {
+                "name": "iasurvival_tomato_seeds",
+                "allow_offhand": true,
+                "icon": "tomato_seeds",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_garlic_seeds",
+                "allow_offhand": true,
+                "icon": "garlic_seeds",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_lettuce_seeds",
+                "allow_offhand": true,
+                "icon": "lettuce_seeds",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_chili_pepper_seeds",
+                "allow_offhand": true,
+                "icon": "chili_pepper_seeds",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_rice_seeds",
+                "allow_offhand": true,
+                "icon": "rice_seeds",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_tobacco_seeds",
+                "allow_offhand": true,
+                "icon": "tobacco_seeds",
+                "custom_model_data": 10005
+            }
+        ]
+    }
+}

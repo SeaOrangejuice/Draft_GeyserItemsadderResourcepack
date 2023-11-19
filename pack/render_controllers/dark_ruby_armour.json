@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+      "controller.render.dark_ruby_armour": {
+        "geometry": "Geometry.default",
+        "materials": [
+          {
+            "*": "Material.default"
+          }
+        ],
+        "textures": [
+          "t.time = q.life_time * 6.7; return array.skins[t.time];"
+        ],
+        "arrays": {
+          "textures": {
+            "Array.skins": [
+              "Texture.dark_0",
+              "Texture.dark_1",
+              "Texture.dark_2"
+            ]
+          }
+        }
+      }
+    }
+  }

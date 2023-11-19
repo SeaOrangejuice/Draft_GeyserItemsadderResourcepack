@@ -1,0 +1,347 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=true]": {
+			"name": "avocado_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=false]": {
+			"name": "banana_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=true]": {
+			"name": "cherry_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=false]": {
+			"name": "decaying_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			  }
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=true]": {
+			"name": "dragonfruit_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=false]": {
+			"name": "guava_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=true,west=true]": {
+			"name": "lemon_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=false]": {
+			"name": "lime_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=false,west=true]": {
+			"name": "mango_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=true,west=false]": {
+			"name": "maple_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=false,up=true,west=true]": {
+			"name": "nut_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=false,west=false]": {
+			"name": "olive_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=false,west=true]": {
+			"name": "orange_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=true,west=false]": {
+			"name": "palm_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=false,north=true,south=true,up=true,west=true]": {
+			"name": "passionfruit_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=false,west=false]": {
+			"name": "peach_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=false,west=true]": {
+			"name": "plum_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        },
+        "minecraft:chorus_plant[down=false,east=true,north=false,south=false,up=true,west=false]": {
+			"name": "prune_tree_leaves",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true,
+			"selection_box": {
+				"origin": [ -8, 0, -8 ],
+				"size": [ 16, 16, 16 ]
+			},
+			"collision_box":{
+				"origin": [-8, 0, -8],
+				"size": [16, 16, 16]
+			}
+        }
+    }
+}

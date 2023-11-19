@@ -1,0 +1,279 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:apple":[
+            {
+                "name": "pepper",
+                "allow_offhand": true,
+                "icon": "pepper",
+                "frame": 0,
+                "custom_model_data": 10007,
+                "texture_size": 16
+            },
+            {
+                "name": "pepper_silver_star",
+                "allow_offhand": true,
+                "icon": "pepper_silver_star",
+                "frame": 0,
+                "custom_model_data": 10008,
+                "texture_size": 16
+            },
+            {
+                "name": "pepper_golden_star",
+                "allow_offhand": true,
+                "icon": "pepper_golden_star",
+                "frame": 0,
+                "custom_model_data": 10009,
+                "texture_size": 16
+            },
+            {
+                "name": "eggplant",
+                "allow_offhand": true,
+                "icon": "eggplant",
+                "frame": 0,
+                "custom_model_data": 10010,
+                "texture_size": 16
+            },
+            {
+                "name": "eggplant_silver_star",
+                "allow_offhand": true,
+                "icon": "eggplant_silver_star",
+                "frame": 0,
+                "custom_model_data": 10011,
+                "texture_size": 16
+            },
+            {
+                "name": "eggplant_golden_star",
+                "allow_offhand": true,
+                "icon": "eggplant_golden_star",
+                "frame": 0,
+                "custom_model_data": 10012,
+                "texture_size": 16
+            },
+            {
+                "name": "grape",
+                "allow_offhand": true,
+                "icon": "grape",
+                "frame": 0,
+                "custom_model_data": 10013,
+                "texture_size": 16
+            },
+            {
+                "name": "grape_silver_star",
+                "allow_offhand": true,
+                "icon": "grape_silver_star",
+                "frame": 0,
+                "custom_model_data": 10014,
+                "texture_size": 16
+            },
+            {
+                "name": "grape_golden_star",
+                "allow_offhand": true,
+                "icon": "grape_golden_star",
+                "frame": 0,
+                "custom_model_data": 10015,
+                "texture_size": 16
+            },
+            {
+                "name": "chinese_cabbage",
+                "allow_offhand": true,
+                "icon": "chinese_cabbage",
+                "frame": 0,
+                "custom_model_data": 10016,
+                "texture_size": 16
+            },
+            {
+                "name": "chinese_cabbage_silver_star",
+                "allow_offhand": true,
+                "icon": "chinese_cabbage_silver_star",
+                "frame": 0,
+                "custom_model_data": 10017,
+                "texture_size": 16
+            },
+            {
+                "name": "chinese_cabbage_golden_star",
+                "allow_offhand": true,
+                "icon": "chinese_cabbage_golden_star",
+                "frame": 0,
+                "custom_model_data": 10018,
+                "texture_size": 16
+            },
+            {
+                "name": "pineapple",
+                "allow_offhand": true,
+                "icon": "pineapple",
+                "frame": 0,
+                "custom_model_data": 10019,
+                "texture_size": 16
+            },
+            {
+                "name": "pineapple_silver_star",
+                "allow_offhand": true,
+                "icon": "pineapple_silver_star",
+                "frame": 0,
+                "custom_model_data": 10020,
+                "texture_size": 16
+            },
+            {
+                "name": "pineapple_golden_star",
+                "allow_offhand": true,
+                "icon": "pineapple_golden_star",
+                "frame": 0,
+                "custom_model_data": 10021,
+                "texture_size": 16
+            },
+            {
+                "name": "hop",
+                "allow_offhand": true,
+                "icon": "hop",
+                "frame": 0,
+                "custom_model_data": 10022,
+                "texture_size": 16
+            },
+            {
+                "name": "hop_silver_star",
+                "allow_offhand": true,
+                "icon": "hop_silver_star",
+                "frame": 0,
+                "custom_model_data": 10023,
+                "texture_size": 16
+            },
+            {
+                "name": "hop_golden_star",
+                "allow_offhand": true,
+                "icon": "hop_golden_star",
+                "frame": 0,
+                "custom_model_data": 10024,
+                "texture_size": 16
+            },
+            {
+                "name": "pitaya",
+                "allow_offhand": true,
+                "icon": "pitaya",
+                "frame": 0,
+                "custom_model_data": 10025,
+                "texture_size": 16
+            },
+            {
+                "name": "pitaya_silver_star",
+                "allow_offhand": true,
+                "icon": "pitaya_silver_star",
+                "frame": 0,
+                "custom_model_data": 10026,
+                "texture_size": 16
+            },
+            {
+                "name": "pitaya_golden_star",
+                "allow_offhand": true,
+                "icon": "pitaya_golden_star",
+                "frame": 0,
+                "custom_model_data": 10027,
+                "texture_size": 16
+            },
+            {
+                "name": "cabbage",
+                "allow_offhand": true,
+                "icon": "cabbage",
+                "frame": 0,
+                "custom_model_data": 10028,
+                "texture_size": 16
+            },
+            {
+                "name": "cabbage_silver_star",
+                "allow_offhand": true,
+                "icon": "cabbage_silver_star",
+                "frame": 0,
+                "custom_model_data": 10029,
+                "texture_size": 16
+            },
+            {
+                "name": "cabbage_golden_star",
+                "allow_offhand": true,
+                "icon": "cabbage_golden_star",
+                "frame": 0,
+                "custom_model_data": 10030,
+                "texture_size": 16
+            },
+            {
+                "name": "corn",
+                "allow_offhand": true,
+                "icon": "corn",
+                "frame": 0,
+                "custom_model_data": 10031,
+                "texture_size": 16
+            },
+            {
+                "name": "corn_silver_star",
+                "allow_offhand": true,
+                "icon": "corn_silver_star",
+                "frame": 0,
+                "custom_model_data": 10032,
+                "texture_size": 16
+            },
+            {
+                "name": "corn_golden_star",
+                "allow_offhand": true,
+                "icon": "corn_golden_star",
+                "frame": 0,
+                "custom_model_data": 10033,
+                "texture_size": 16
+            },
+            {
+                "name": "tomato",
+                "allow_offhand": true,
+                "icon": "tomato",
+                "frame": 0,
+                "custom_model_data": 10034,
+                "texture_size": 16
+            },
+            {
+                "name": "tomato_silver_star",
+                "allow_offhand": true,
+                "icon": "tomato_silver_star",
+                "frame": 0,
+                "custom_model_data": 10035,
+                "texture_size": 16
+            },
+            {
+                "name": "tomato_golden_star",
+                "allow_offhand": true,
+                "icon": "tomato_golden_star",
+                "frame": 0,
+                "custom_model_data": 10036,
+                "texture_size": 16
+            },
+            {
+                "name": "golden_tomato",
+                "allow_offhand": true,
+                "icon": "golden_tomato",
+                "frame": 0,
+                "custom_model_data": 10037,
+                "texture_size": 16
+            },
+            {
+                "name": "garlic",
+                "allow_offhand": true,
+                "icon": "garlic",
+                "frame": 0,
+                "custom_model_data": 10038,
+                "texture_size": 16
+            },
+            {
+                "name": "garlic_silver_star",
+                "allow_offhand": true,
+                "icon": "garlic_silver_star",
+                "frame": 0,
+                "custom_model_data": 10039,
+                "texture_size": 16
+            },
+            {
+                "name": "garlic_golden_star",
+                "allow_offhand": true,
+                "icon": "garlic_golden_star",
+                "frame": 0,
+                "custom_model_data": 10040,
+                "texture_size": 16
+            }
+        ]
+    }
+}

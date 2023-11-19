@@ -1,0 +1,25 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:bread": [
+            {
+                "name": "sandwiches_provolone",
+                "allow_offhand": true,
+                "icon": "provolone",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "sandwiches_slicedbread",
+                "allow_offhand": true,
+                "icon": "slicedbread",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "sandwiches_cheesewhiz",
+                "allow_offhand": true,
+                "icon": "cheesewhiz",
+                "custom_model_data": 10002
+            }
+        ]
+    }
+}

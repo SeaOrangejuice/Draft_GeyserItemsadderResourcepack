@@ -1,0 +1,271 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:cooked_porkchop": [
+            {
+                "name": "sandwiches_ham",
+                "allow_offhand": true,
+                "icon": "ham",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_sweet_stick",
+                "allow_offhand": true,
+                "icon": "sweet_stick",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_fried_egg",
+                "allow_offhand": true,
+                "icon": "fried_egg",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_goldfish",
+                "allow_offhand": true,
+                "icon": "goldfish",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_hotdog",
+                "allow_offhand": true,
+                "icon": "hotdog",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_tuna",
+                "allow_offhand": true,
+                "icon": "tuna",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "iasurvival_sliced_bread_with_apple_jam_jar",
+                "allow_offhand": true,
+                "icon": "sliced_bread_with_apple_jam",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_peeled_potato",
+                "allow_offhand": true,
+                "icon": "peeled_potato",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_fried_potato_sticks",
+                "allow_offhand": true,
+                "icon": "fried_potato_sticks",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_hamburger",
+                "allow_offhand": true,
+                "icon": "hamburger",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_cod_nigiri",
+                "allow_offhand": true,
+                "icon": "cod_nigiri",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iasurvival_sliced_cheese",
+                "allow_offhand": true,
+                "icon": "sliced_cheese",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "iasurvival_chips",
+                "allow_offhand": true,
+                "icon": "chips",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "iasurvival_tropical_fish_nigiri",
+                "allow_offhand": true,
+                "icon": "tropical_fish_nigiri",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "iasurvival_green_sunfish",
+                "allow_offhand": true,
+                "icon": "green_sunfish",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "iasurvival_sausage",
+                "allow_offhand": true,
+                "icon": "sausage",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "iasurvival_salmon_nigiri",
+                "allow_offhand": true,
+                "icon": "salmon_nigiri",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "iasurvival_sliced_bread_with_pear_jam_jar",
+                "allow_offhand": true,
+                "icon": "sliced_bread_with_pear_jam",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "iasurvival_pink_donut",
+                "allow_offhand": true,
+                "icon": "pink_donut",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "iasurvival_sliced_raw_beef",
+                "allow_offhand": true,
+                "icon": "sliced_raw_beef",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "iasurvival_pizza",
+                "allow_offhand": true,
+                "icon": "pizza",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "iasurvival_cooked_sliced_raw_beef",
+                "allow_offhand": true,
+                "icon": "sliced_roast_beef",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "iasurvival_sliced_bread",
+                "allow_offhand": true,
+                "icon": "sliced_bread",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "iasurvival_baguette",
+                "allow_offhand": true,
+                "icon": "baguette",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "iasurvival_cooked_sausage",
+                "allow_offhand": true,
+                "icon": "cooked_sausage",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "iasurvival_cheese",
+                "allow_offhand": true,
+                "icon": "cheese",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "iasurvival_cooked_green_sunfish",
+                "allow_offhand": true,
+                "icon": "cooked_green_sunfish",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "iasurvival_pufferfish_nigiri",
+                "allow_offhand": true,
+                "icon": "pufferfish_nigiri",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "iasurvival_cooked_tuna",
+                "allow_offhand": true,
+                "icon": "cooked_tuna",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "iasurvival_blue_parrotfish",
+                "allow_offhand": true,
+                "icon": "blue_parrotfish",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "iasurvival_cooked_donut_base",
+                "allow_offhand": true,
+                "icon": "cooked_donut_base",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "iasurvival_french_fries",
+                "allow_offhand": true,
+                "icon": "french_fries",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "iasurvival_nether_donut",
+                "allow_offhand": true,
+                "icon": "nether_donut",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "iasurvival_broken_egg",
+                "allow_offhand": true,
+                "icon": "broken_egg",
+                "custom_model_data": 10033
+            },
+            {
+                "name": "iasurvival_taco",
+                "allow_offhand": true,
+                "icon": "taco",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "iasurvival_cooked_black_moor_goldfish",
+                "allow_offhand": true,
+                "icon": "cooked_black_moor_goldfish",
+                "custom_model_data": 10035
+            },
+            {
+                "name": "iasurvival_cooked_goldfish",
+                "allow_offhand": true,
+                "icon": "cooked_goldfish",
+                "custom_model_data": 10036
+            },
+            {
+                "name": "iasurvival_sliced_baguette",
+                "allow_offhand": true,
+                "icon": "sliced_baguette",
+                "custom_model_data": 10037
+            },
+            {
+                "name": "iasurvival_sliced_bread_with_sweet_berries_jam_jar",
+                "allow_offhand": true,
+                "icon": "sliced_bread_with_sweet_berries_jam",
+                "custom_model_data": 10038
+            },
+            {
+                "name": "iasurvival_sweet",
+                "allow_offhand": true,
+                "icon": "sweet",
+                "custom_model_data": 10039
+            },
+            {
+                "name": "iasurvival_potato_sticks",
+                "allow_offhand": true,
+                "icon": "potato_sticks",
+                "custom_model_data": 10040
+            },
+            {
+                "name": "iasurvival_black_moor_goldfish",
+                "allow_offhand": true,
+                "icon": "black_moor_goldfish",
+                "custom_model_data": 10041
+            },
+            {
+                "name": "iasurvival_donut_base",
+                "allow_offhand": true,
+                "icon": "donut_base",
+                "custom_model_data": 10042
+            },
+            {
+                "name": "iasurvival_cooked_blue_parrotfish",
+                "allow_offhand": true,
+                "icon": "cooked_blue_parrotfish",
+                "custom_model_data": 10043
+            }
+        ]
+    }
+}

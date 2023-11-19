@@ -1,0 +1,308 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:cod":[
+            {
+                "name": "radioactive_fish",
+                "allow_offhand": true,
+                "icon": "radioactive_fish",
+                "frame": 0,
+                "custom_model_data": 50000
+            },
+            {
+                "name": "tuna_fish",
+                "allow_offhand": true,
+                "icon": "tuna_fish",
+                "frame": 0,
+                "custom_model_data": 50001
+            },
+            {
+                "name": "tuna_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "tuna_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50002
+            },
+            {
+                "name": "tuna_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "tuna_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50003
+            },
+            {
+                "name": "pike_fish",
+                "allow_offhand": true,
+                "icon": "pike_fish",
+                "frame": 0,
+                "custom_model_data": 50004
+            },
+            {
+                "name": "pike_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "pike_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50005
+            },
+            {
+                "name": "pike_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "pike_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50006
+            },
+            {
+                "name": "gold_fish",
+                "allow_offhand": true,
+                "icon": "gold_fish",
+                "frame": 0,
+                "custom_model_data": 50007
+            },
+            {
+                "name": "gold_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "gold_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50008
+            },
+            {
+                "name": "gold_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "gold_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50009
+            },
+            {
+                "name": "perch_fish",
+                "allow_offhand": true,
+                "icon": "perch_fish",
+                "frame": 0,
+                "custom_model_data": 50010
+            },
+            {
+                "name": "perch_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "perch_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50011
+            },
+            {
+                "name": "perch_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "perch_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50012
+            },
+            {
+                "name": "mullet_fish",
+                "allow_offhand": true,
+                "icon": "mullet_fish",
+                "frame": 0,
+                "custom_model_data": 50013
+            },
+            {
+                "name": "mullet_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "mullet_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50014
+            },
+            {
+                "name": "mullet_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "mullet_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50015
+            },
+            {
+                "name": "sardine_fish",
+                "allow_offhand": true,
+                "icon": "sardine_fish",
+                "frame": 0,
+                "custom_model_data": 50016
+            },
+            {
+                "name": "sardine_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "sardine_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50017
+            },
+            {
+                "name": "sardine_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "sardine_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50018
+            },
+            {
+                "name": "carp_fish",
+                "allow_offhand": true,
+                "icon": "carp_fish",
+                "frame": 0,
+                "custom_model_data": 50019
+            },
+            {
+                "name": "carp_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "carp_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50020
+            },
+            {
+                "name": "carp_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "carp_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50021
+            },
+            {
+                "name": "cat_fish",
+                "allow_offhand": true,
+                "icon": "cat_fish",
+                "frame": 0,
+                "custom_model_data": 50022
+            },
+            {
+                "name": "cat_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "cat_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50023
+            },
+            {
+                "name": "cat_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "cat_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50024
+            },
+            {
+                "name": "octopus_fish",
+                "allow_offhand": true,
+                "icon": "octopus_fish",
+                "frame": 0,
+                "custom_model_data": 50025
+            },
+            {
+                "name": "octopus_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "octopus_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50026
+            },
+            {
+                "name": "octopus_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "octopus_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50027
+            },
+            {
+                "name": "sunfish_fish",
+                "allow_offhand": true,
+                "icon": "sunfish_fish",
+                "frame": 0,
+                "custom_model_data": 50028
+            },
+            {
+                "name": "sunfish_fish_silver_star",
+                "allow_offhand": true,
+                "icon": "sunfish_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50029
+            },
+            {
+                "name": "sunfish_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "sunfish_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50030
+            },
+            {
+                "name": "red_spnapper_fish",
+                "allow_offhand": true,
+                "icon": "red_spnapper_fish",
+                "frame": 0,
+                "custom_model_data": 50031
+            },
+            {
+                "name": "red_spnapper_silver_star",
+                "allow_offhand": true,
+                "icon": "red_spnapper_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50032
+            },
+            {
+                "name": "red_spnapper_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "red_spnapper_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50033
+            },
+            {
+                "name": "salmon_void_fish",
+                "allow_offhand": true,
+                "icon": "salmon_void_fish",
+                "frame": 0,
+                "custom_model_data": 50034
+            },
+            {
+                "name": "salmon_void_silver_star",
+                "allow_offhand": true,
+                "icon": "salmon_void_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50035
+            },
+            {
+                "name": "salmon_void_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "salmon_void_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50036
+            },
+            {
+                "name": "woodskip_fish",
+                "allow_offhand": true,
+                "icon": "woodskip_fish",
+                "frame": 0,
+                "custom_model_data": 50037
+            },
+            {
+                "name": "woodskip_silver_star",
+                "allow_offhand": true,
+                "icon": "woodskip_silver_fish_star",
+                "frame": 0,
+                "custom_model_data": 50038
+            },
+            {
+                "name": "woodskip_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "woodskip_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50039
+            },
+            {
+                "name": "sturgeon_fish",
+                "allow_offhand": true,
+                "icon": "sturgeon_fish",
+                "frame": 0,
+                "custom_model_data": 50040
+            },
+            {
+                "name": "sturgeon_silver_star",
+                "allow_offhand": true,
+                "icon": "sturgeon_fish_silver_star",
+                "frame": 0,
+                "custom_model_data": 50041
+            },
+            {
+                "name": "sturgeon_fish_golden_star",
+                "allow_offhand": true,
+                "icon": "sturgeon_fish_golden_star",
+                "frame": 0,
+                "custom_model_data": 50042
+            }
+        ]
+    }
+}

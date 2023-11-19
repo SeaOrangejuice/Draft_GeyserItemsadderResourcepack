@@ -1,0 +1,269 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:wooden_sword": [
+            {
+                "name": "sandwiches_cleaver",
+                "allow_offhand": true,
+                "icon": "cleaver",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "sandwiches_breadknife",
+                "allow_offhand": true,
+                "icon": "breadknife",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "sandwiches_spatula",
+                "allow_offhand": true,
+                "icon": "spatula",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_waterskin",
+                "allow_offhand": true,
+                "icon": "waterskin",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_knife",
+                "allow_offhand": true,
+                "icon": "knife",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_sweets_sword",
+                "allow_offhand": true,
+                "icon": "sweets_sword",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "iasurvival_chisel",
+                "allow_offhand": true,
+                "icon": "chisel",
+                "custom_model_data": 10006
+            }
+        ],
+        "minecraft:iron_sword": [
+            {
+                "name": "copperitems_coppersword",
+                "allow_offhand": true,
+                "icon": "coppersword",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_sweet_berries_jam_jar",
+                "allow_offhand": true,
+                "icon": "sweet_berries_jam_jar",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_pear_jam_jar",
+                "allow_offhand": true,
+                "icon": "pear_jam_jar",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_apple_jam_jar",
+                "allow_offhand": true,
+                "icon": "apple_jam_jar",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iridium_sword",
+                "allow_offhand": true,
+                "icon": "iridium_sword",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "malachite_sword",
+                "allow_offhand": true,
+                "icon": "malachite_sword",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "amber_sword",
+                "allow_offhand": true,
+                "icon": "amber_sword",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "amethyst_sword",
+                "allow_offhand": true,
+                "icon": "amethyst_sword",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "mythril_sword",
+                "allow_offhand": true,
+                "icon": "mythril_sword",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "silver_sword",
+                "allow_offhand": true,
+                "icon": "silver_sword",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "jade_sword",
+                "allow_offhand": true,
+                "icon": "jade_sword",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "ruby_sword",
+                "allow_offhand": true,
+                "icon": "more_ruby_sword",
+                "custom_model_data": 10012
+            }
+        ],
+        "minecraft:golden_sword": [
+            {
+                "name": "iasurvival_ruby_dagger",
+                "allow_offhand": true,
+                "icon": "ruby_sword",
+                "custom_model_data": 10000
+            }
+        ],
+        "minecraft:diamond_sword": [
+            {
+                "name": "nibrock_emerald_sword",
+                "allow_offhand": true,
+                "icon": "emerald_sword",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_emerald_sword",
+                "allow_offhand": true,
+                "icon": "emerald_sword",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_bronze_sword",
+                "allow_offhand": true,
+                "icon": "bronze_sword",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_rusteroth_sword",
+                "allow_offhand": true,
+                "icon": "rusteroth_sword",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_ruby_sword",
+                "allow_offhand": true,
+                "icon": "ruby_sword",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "iasurvival_firesword_sword",
+                "allow_offhand": true,
+                "icon": "firesword_sword",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_end_sword",
+                "allow_offhand": true,
+                "icon": "end_sword",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_dark_amethyst_sword",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_sword",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_vyderlight_sword",
+                "allow_offhand": true,
+                "icon": "vyderlight_sword",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_bloodnite_sword",
+                "allow_offhand": true,
+                "icon": "bloodnite_sword",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iasurvival_aqualight_sword",
+                "allow_offhand": true,
+                "icon": "aqualight_sword",
+                "custom_model_data": 10011
+            }       
+        ],
+        "minecraft:bow": [
+            {
+                "name": "black_bow",
+                "allow_offhand": true,
+                "icon": "black_bow",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "red_bow",
+                "allow_offhand": true,
+                "icon": "red_bow",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "green_bow",
+                "allow_offhand": true,
+                "icon": "green_bow",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "blue_bow",
+                "allow_offhand": true,
+                "icon": "blue_bow",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "purple_bow",
+                "allow_offhand": true,
+                "icon": "purple_bow",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "cyan_bow",
+                "allow_offhand": true,
+                "icon": "cyan_bow",
+                "custom_model_data": 10005
+            }
+        ],
+        "minecraft:shield": [
+            {
+                "name": "iasurvival_obsidian_shield",
+                "allow_offhand": true,
+                "icon": "no",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_ruby_shield",
+                "allow_offhand": true,
+                "icon": "ruby_shield",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_bronze_shield",
+                "allow_offhand": true,
+                "icon": "no",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_end_shield",
+                "allow_offhand": true,
+                "icon": "no",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_dark_amethyst_shield",
+                "allow_offhand": true,
+                "icon": "no",
+                "custom_model_data": 10004
+            }
+        ]
+    }
+}

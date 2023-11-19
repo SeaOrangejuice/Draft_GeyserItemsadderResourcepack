@@ -1,0 +1,40 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.tools.wield_first_person": {
+			"loop": true,
+			"bones": {
+				"pole": {
+					"rotation": [158, 0, 25],
+					"position": [0, -58, 13.5],
+					"scale": 2.7
+				},
+				"rightitem": {
+					"rotation": [96.78124, 53.2359, -55.52835],
+					"position": [-5, 16, -3]
+				},
+				"bb_main": {
+					"rotation": [40, 0, 350],
+					"position": [2, 18, -4]
+				}
+			}
+		},
+		"animation.tools.wield_third_person": {
+			"loop": true,
+			"bones": {
+				"pole": {
+					"rotation": [90, 0, 90],
+					"position": [0.3, -1.3, -20.5]
+				},
+				"rightitem": {
+					"rotation": [39.89247, -3.21154, 3.83424],
+					"position": [0, 20, -5]
+				},
+				"bb_main": {
+					"rotation": [27.5, 0, 0],
+					"position": [0, 14, -7]
+				}
+			}
+		}
+	}
+}

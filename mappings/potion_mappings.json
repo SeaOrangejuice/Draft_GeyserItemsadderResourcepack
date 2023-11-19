@@ -1,0 +1,49 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:potion": [
+            {
+                "name": "sooj_drowsyblacktea",
+                "allow_offhand": true,
+                "icon": "sooj_drowsyblacktea",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "sooj_blacktea",
+                "allow_offhand": true,
+                "icon": "sooj_blacktea",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "sooj_greentea",
+                "allow_offhand": true,
+                "icon": "sooj_greentea",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "iasurvival_coffee",
+                "allow_offhand": true,
+                "icon": "coffee",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_chocolate",
+                "allow_offhand": true,
+                "icon": "hot_chocolate",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_bloody_mary",
+                "allow_offhand": true,
+                "icon": "bloody_mary",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_cola",
+                "allow_offhand": true,
+                "icon": "cola",
+                "custom_model_data": 10009
+            }
+        ]
+    }
+}

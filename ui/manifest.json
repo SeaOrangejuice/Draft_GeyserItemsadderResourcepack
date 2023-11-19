@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "SoojCraftUI",
+    "description": "SoojCraftUI",
+    "uuid": "71AB9407-68BA-B7CD-ADC2-7EAD6CA539D9",
+    "version": [0, 10, 19]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "Made in Sea of Orange",
+      "uuid": "D3116F61-2CBF-A6A2-DEEF-C50021976EB5",
+      "version": [0, 10, 19]
+    }
+  ]
+}

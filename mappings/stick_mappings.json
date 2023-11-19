@@ -1,0 +1,241 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:stick": [
+            {
+                "name": "forestry_avocado_saplings",
+                "allow_offhand": true,
+                "icon": "avocado_saplings",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "forestry_banana_saplings",
+                "allow_offhand": true,
+                "icon": "banana_saplings",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "forestry_cherry_saplings",
+                "allow_offhand": true,
+                "icon": "cherry_saplings",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "forestry_decaying_saplings",
+                "allow_offhand": true,
+                "icon": "decaying_saplings",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "forestry_dragonfruit_saplings",
+                "allow_offhand": true,
+                "icon": "dragonfruit_saplings",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "forestry_guava_saplings",
+                "allow_offhand": true,
+                "icon": "guava_saplings",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "forestry_lemon_saplings",
+                "allow_offhand": true,
+                "icon": "lemon_saplings",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "forestry_lime_saplings",
+                "allow_offhand": true,
+                "icon": "lime_saplings",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "forestry_mango_saplings",
+                "allow_offhand": true,
+                "icon": "mango_saplings",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "forestry_maple_saplings",
+                "allow_offhand": true,
+                "icon": "maple_saplings",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "forestry_nut_saplings",
+                "allow_offhand": true,
+                "icon": "nut_saplings",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "forestry_olive_saplings",
+                "allow_offhand": true,
+                "icon": "olive_saplings",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "forestry_orange_saplings",
+                "allow_offhand": true,
+                "icon": "orange_saplings",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "forestry_prune_saplings",
+                "allow_offhand": true,
+                "icon": "prune_saplings",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "forestry_palm_saplings",
+                "allow_offhand": true,
+                "icon": "palm_saplings",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "forestry_passionfruit_saplings",
+                "allow_offhand": true,
+                "icon": "passionfruit_saplings",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "forestry_peach_saplings",
+                "allow_offhand": true,
+                "icon": "peach_saplings",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "forestry_plum_saplings",
+                "allow_offhand": true,
+                "icon": "plum_saplings",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "ffurniture_furniture_token",
+                "allow_offhand": true,
+                "icon": "furniture_token",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "iasurvival_empty_cup",
+                "allow_offhand": true,
+                "icon": "empty_cup",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "iasurvival_jar",
+                "allow_offhand": true,
+                "icon": "jar",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "iasurvival_chili_powder",
+                "allow_offhand": true,
+                "icon": "chili_powder",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "iasurvival_cup_of_hot_water",
+                "allow_offhand": true,
+                "icon": "cup_of_hot_water",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "iasurvival_ketchup",
+                "allow_offhand": true,
+                "icon": "ketchup",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "iasurvival_drink_glass",
+                "allow_offhand": true,
+                "icon": "drink_glass",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "iasurvival_flour",
+                "allow_offhand": true,
+                "icon": "flour",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "iasurvival_cup_of_water",
+                "allow_offhand": true,
+                "icon": "cup_of_water",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "iasurvival_sword_skin_rusteroth",
+                "allow_offhand": true,
+                "icon": "sword_skin_rusteroth",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "iasurvival_sword_skin_bloodnite",
+                "allow_offhand": true,
+                "icon": "sword_skin_bloodnite",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "iasurvival_sword_skin_vyderlight",
+                "allow_offhand": true,
+                "icon": "sword_skin_vyderlight",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "iasurvival_sword_skin_aqualight",
+                "allow_offhand": true,
+                "icon": "sword_skin_aqualight",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "iasurvival_ketchup_bottle",
+                "allow_offhand": true,
+                "icon": "ketchup_bottle",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "iasurvival_dough",
+                "allow_offhand": true,
+                "icon": "dough",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "iasurvival_nest",
+                "allow_offhand": true,
+                "icon": "nest",
+                "custom_model_data": 10033
+            },
+            {
+                "name": "iasurvival_eggs_nest",
+                "allow_offhand": true,
+                "icon": "eggs_nest",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "iasurvival_plastic",
+                "allow_offhand": true,
+                "icon": "plastic",
+                "custom_model_data": 10035
+            },
+            {
+                "name": "iasurvival_plastic_plate",
+                "allow_offhand": true,
+                "icon": "plastic_plate",
+                "custom_model_data": 10036
+            },
+            {
+                "name": "iasurvival_iron_plate",
+                "allow_offhand": true,
+                "icon": "iron_plate",
+                "custom_model_data": 10037
+            },
+            {
+                "name": "iasurvival_tobacco",
+                "allow_offhand": true,
+                "icon": "tobacco",
+                "custom_model_data": 10038
+            }
+        ]
+    }
+}

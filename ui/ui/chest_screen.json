@@ -1,0 +1,619 @@
+{
+    "namespace": "soojcraft_chest",
+    "inactive_button_ref": {
+      "type": "input_panel"
+    },
+  
+    "chest_grid_item@chest.chest_grid_item": {
+      "$button_ref": "chest.inactive_button_ref",
+      "$stack_count_required": false,
+      "$durability_bar_required": false,
+      "focus_enabled": false,
+      "focus_magnet_enabled": false,
+      "$item_renderer": "common.empty_panel"
+    },
+    "chest_blank_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/iabg",
+              "uv": [0, 0],
+              "uv_size": [192, 257],
+              "size": [192, 257],
+              "offset": [0, -17.5]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@chest.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "chest_anvil_repair_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/anvil_repair",
+              "uv": [0, 0],
+              "uv_size": [176, 222],
+              "size": [176, 222]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@chest.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "chest_cooking_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/cooking",
+              "uv": [0, 0],
+              "uv_size": [176, 222],
+              "size": [176, 222]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@chest.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "chest_crafting_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/crafting",
+              "uv": [0, 0],
+              "uv_size": [176, 222],
+              "size": [176, 222]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@cheinactive_st.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "chest_no_recipe_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/no_recipe",
+              "uv": [0, 0],
+              "uv_size": [176, 222],
+              "size": [176, 222]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@inactive_chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@inactive_chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@inactive_chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@inactive_chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@inactive_chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@inactive_chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@inactive_chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@inactive_chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@inactive_chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@inactive_chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@inactive_chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@inactive_chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@inactive_chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@inactive_chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@inactive_chest.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@inactive_chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@inactive_chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@inactive_chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@inactive_chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@inactive_chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@inactive_chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@inactive_chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@inactive_chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@inactive_chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@inactive_chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@inactive_chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@inactive_chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@inactive_chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@inactive_chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@inactive_chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@inactive_chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@inactive_chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@inactive_chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@inactive_chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@inactive_chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@inactive_chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@inactive_chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@inactive_chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@inactive_chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@inactive_chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@inactive_chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@inactive_chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@inactive_chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "chest_smithing_menu_container": {
+        "type": "panel",
+        "layer": 5,
+        "$background_images": "common.empty_panel",
+        "controls": [
+          {
+            "bg": {
+              "type": "image",
+              "texture": "textures/ui/chestui/iaui/smithing",
+              "uv": [0, 0],
+              "uv_size": [176, 222],
+              "size": [176, 222]
+            }
+          },
+          {
+            "large_chest_grid": {
+              "type": "grid",
+              "size": [162, 108],
+              "anchor_from": "top_left",
+              "anchor_to": "top_left",
+              "grid_dimensions": [9, 6],
+              "offset": [7, 16],
+              "collection_name": "container_items",
+              "controls": [
+                { "0_0@chest.chest_grid_item": { "grid_position": [0, 0] }},
+                { "1_0@chest.chest_grid_item": { "grid_position": [1, 0] }},
+                { "2_0@chest.chest_grid_item": { "grid_position": [2, 0] }},
+                { "3_0@chest.chest_grid_item": { "grid_position": [3, 0] }},
+                { "4_0@chest.chest_grid_item": { "grid_position": [4, 0] }},
+                { "5_0@chest.chest_grid_item": { "grid_position": [5, 0] }},
+                { "6_0@chest.chest_grid_item": { "grid_position": [6, 0] }},
+                { "7_0@chest.chest_grid_item": { "grid_position": [7, 0] }},
+                { "8_0@chest.chest_grid_item": { "grid_position": [8, 0] }},
+    
+                { "0_1@chest.chest_grid_item": { "grid_position": [0, 1] }},
+                { "1_1@chest.chest_grid_item": { "grid_position": [1, 1] }},
+                { "2_1@chest.chest_grid_item": { "grid_position": [2, 1] }},
+                { "3_1@chest.chest_grid_item": { "grid_position": [3, 1] }},
+                { "4_1@chest.chest_grid_item": { "grid_position": [4, 1] }},
+                { "5_1@chest.chest_grid_item": { "grid_position": [5, 1] }},
+                { "6_1@chest.chest_grid_item": { "grid_position": [6, 1] }},
+                { "7_1@chest.chest_grid_item": { "grid_position": [7, 1] }},
+                { "8_1@chest.chest_grid_item": { "grid_position": [8, 1] }},
+    
+                { "0_2@chest.chest_grid_item": { "grid_position": [0, 2] }},
+                { "1_2@chest.chest_grid_item": { "grid_position": [1, 2] }},
+                { "2_2@chest.chest_grid_item": { "grid_position": [2, 2] }},
+                { "3_2@chest.chest_grid_item": { "grid_position": [3, 2] }},
+                { "4_2@chest.chest_grid_item": { "grid_position": [4, 2] }},
+                { "5_2@chest.chest_grid_item": { "grid_position": [5, 2] }},
+                { "6_2@chest.chest_grid_item": { "grid_position": [6, 2] }},
+                { "7_2@chest.chest_grid_item": { "grid_position": [7, 2] }},
+                { "8_2@chest.chest_grid_item": { "grid_position": [8, 2] }},
+    
+                { "0_3@chest.chest_grid_item": { "grid_position": [0, 3] }},
+                { "1_3@chest.chest_grid_item": { "grid_position": [1, 3] }},
+                { "2_3@chest.chest_grid_item": { "grid_position": [2, 3] }},
+                { "3_3@chest.chest_grid_item": { "grid_position": [3, 3] }},
+                { "4_3@chest.chest_grid_item": { "grid_position": [4, 3] }},
+                { "5_3@chest.chest_grid_item": { "grid_position": [5, 3] }},
+                { "6_3@chest.chest_grid_item": { "grid_position": [6, 3] }},
+                { "7_3@chest.chest_grid_item": { "grid_position": [7, 3] }},
+                { "8_3@chest.chest_grid_item": { "grid_position": [8, 3] }},
+    
+                { "0_4@chest.chest_grid_item": { "grid_position": [0, 4] }},
+                { "1_4@chest.chest_grid_item": { "grid_position": [1, 4] }},
+                { "2_4@chest.chest_grid_item": { "grid_position": [2, 4] }},
+                { "3_4@chest.chest_grid_item": { "grid_position": [3, 4] }},
+                { "4_4@chest.chest_grid_item": { "grid_position": [4, 4] }},
+                { "5_4@chest.chest_grid_item": { "grid_position": [5, 4] }},
+                { "6_4@chest.chest_grid_item": { "grid_position": [6, 4] }},
+                { "7_4@chest.chest_grid_item": { "grid_position": [7, 4] }},
+                { "8_4@chest.chest_grid_item": { "grid_position": [8, 4] }},
+    
+                { "0_5@chest.chest_grid_item": { "grid_position": [0, 5] }},
+                { "1_5@chest.chest_grid_item": { "grid_position": [1, 5] }},
+                { "2_5@chest.chest_grid_item": { "grid_position": [2, 5] }},
+                { "3_5@chest.chest_grid_item": { "grid_position": [3, 5] }},
+                { "4_5@chest.chest_grid_item": { "grid_position": [4, 5] }},
+                { "5_5@chest.chest_grid_item": { "grid_position": [5, 5] }},
+                { "6_5@chest.chest_grid_item": { "grid_position": [6, 5] }},
+                { "7_5@chest.chest_grid_item": { "grid_position": [7, 5] }},
+                { "8_5@chest.chest_grid_item": { "grid_position": [8, 5] }}  
+              ]
+            }
+          },
+          { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": { "offset": [0, -2] } },
+          { "hotbar_grid@common.hotbar_grid_template": {    "offset": [ 0, -6] } }
+        ]
+      },
+      "large_chest_panel/root_panel": {
+        "controls": "$controls",
+        "$controls|default": [
+          { "common_panel@common.common_panel": {} },
+          {
+            "chest_panel": {
+              "type": "panel",
+              "layer": 5,
+              "controls": [
+                { "large_chest_panel_top_half@chest.large_chest_panel_top_half": {} },
+                { "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": {} },
+                { "hotbar_grid@common.hotbar_grid_template": {} },
+                { "inventory_take_progress_icon_button@common.inventory_take_progress_icon_button": {} }
+              ]
+            }
+          },
+          { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+          { "gamepad_cursor@common.gamepad_cursor_button": {} }
+        ],
+        "variables": [
+          {
+            "requires": "(not (($container_title - '鄿') = $container_title))",
+            "$controls": [
+              { "chest_blank_menu_container@chest.chest_blank_menu_container": {} },
+              { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+              { "gamepad_cursor@common.gamepad_cursor_button": {} }
+            ]
+          },
+          {
+            "requires": "(not (($container_title - '') = $container_title))",
+            "$controls": [
+              { "chest_anvil_repair_menu_container@chest.chest_anvil_repair_menu_container": {} },
+              { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+              { "gamepad_cursor@common.gamepad_cursor_button": {} }
+            ]
+          },
+          {
+            "requires": "(not (($container_title - '') = $container_title))",
+            "$controls": [
+              { "chest_crafting_menu_container@chest.chest_crafting_menu_container": {} },
+              { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+              { "gamepad_cursor@common.gamepad_cursor_button": {} }
+            ]
+          },
+          {
+            "requires": "(not (($container_title - '') = $container_title))",
+            "$controls": [
+              { "chest_no_recipe_menu_container@chest.chest_no_recipe_menu_container": {} },
+              { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+              { "gamepad_cursor@common.gamepad_cursor_button": {} }
+            ]
+          },
+          {
+            "requires": "(not (($container_title - '') = $container_title))",
+            "$controls": [
+              { "chest_smithing_menu_container@chest.chest_smithing_menu_container": {} },
+              { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
+              { "gamepad_cursor@common.gamepad_cursor_button": {} }
+            ]
+          }
+
+        ]
+      }
+}

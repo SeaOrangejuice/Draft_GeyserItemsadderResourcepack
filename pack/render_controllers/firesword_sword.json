@@ -1,0 +1,25 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+      "controller.render.firesword_sword": {
+        "geometry": "Geometry.default",
+        "materials": [
+          {
+            "*": "Material.default"
+          }
+        ],
+        "textures": [
+          "t.time = q.life_time * 7.8; return array.skins[t.time];"
+        ],
+        "arrays": {
+          "textures": {
+            "Array.skins": [
+              "Texture.firesword_sword_0",
+              "Texture.firesword_sword_1",
+              "Texture.firesword_sword_2"
+            ]
+          }
+        }
+      }
+    }
+  }

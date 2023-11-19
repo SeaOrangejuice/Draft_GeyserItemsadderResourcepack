@@ -1,0 +1,2299 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:paper": [
+            {
+                "name": "elitecreature_chinese_chair_double",
+                "allow_offhand": true,
+                "icon": "chinese_chair_double",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "elitecreature_chinese_chair_single",
+                "allow_offhand": true,
+                "icon": "chinese_chair_single",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "elitecreature_chinese_chair_cupboard",
+                "allow_offhand": true,
+                "icon": "chinese_cupboard",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "elitecreature_chinese_chair_cupboard_closet",
+                "allow_offhand": true,
+                "icon": "chinese_cupboard_closet",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "elitecreature_chinese_chair_cupboard_table",
+                "allow_offhand": true,
+                "icon": "chinese_cupboard_table",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "elitecreature_chinese_incense_burner",
+                "allow_offhand": true,
+                "icon": "chinese_incense_burner",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "elitecreature_chinese_lamp_chandelier",
+                "allow_offhand": true,
+                "icon": "chinese_lamp_chandelier",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "elitecreature_chinese_lamp_lantern",
+                "allow_offhand": true,
+                "icon": "chinese_lamp_lantern",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "elitecreature_chinese_lamp_road",
+                "allow_offhand": true,
+                "icon": "chinese_lamp_road",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "elitecreature_chinese_lantern",
+                "allow_offhand": true,
+                "icon": "chinese_lantern",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "elitecreature_chinese_makeup_mirror",
+                "allow_offhand": true,
+                "icon": "chinese_makeup_mirror",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "elitecreature_chinese_partition",
+                "allow_offhand": true,
+                "icon": "chinese_partition",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "elitecreature_chinese_plant_pot_01",
+                "allow_offhand": true,
+                "icon": "chinese_plant_pot_01",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "elitecreature_chinese_plant_pot_02",
+                "allow_offhand": true,
+                "icon": "chinese_plant_pot_02",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "elitecreature_chinese_scripture",
+                "allow_offhand": true,
+                "icon": "chinese_scripture",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "elitecreature_chinese_shel",
+                "allow_offhand": true,
+                "icon": "chinese_shel",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "elitecreature_chinese_sword_stand",
+                "allow_offhand": true,
+                "icon": "chinese_sword_stand",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "elitecreature_chinese_table",
+                "allow_offhand": true,
+                "icon": "chinese_table",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "elitecreature_chinese_table_2",
+                "allow_offhand": true,
+                "icon": "chinese_table_2",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "elitecreature_chinese_tea_set",
+                "allow_offhand": true,
+                "icon": "chinese_tea_set",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "ffurniture_walllamp1",
+                "allow_offhand": true,
+                "icon": "walllamp1",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "ffurniture_walllamp2",
+                "allow_offhand": true,
+                "icon": "walllamp2",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "ffurniture_walllamp3",
+                "allow_offhand": true,
+                "icon": "walllamp3",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "ffurniture_floorlamp3",
+                "allow_offhand": true,
+                "icon": "floorlamp3",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "ffurniture_floorlamp2brown",
+                "allow_offhand": true,
+                "icon": "floorlamp2brown",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "ffurniture_floorlamp2white",
+                "allow_offhand": true,
+                "icon": "floorlamp2white",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "ffurniture_floorlamp3gray",
+                "allow_offhand": true,
+                "icon": "floorlamp3gray",
+                "custom_model_data": 10033
+            },
+            {
+                "name": "ffurniture_floorlamp3orange",
+                "allow_offhand": true,
+                "icon": "floorlamp3orange",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "ffurniture_floorlamp3red",
+                "allow_offhand": true,
+                "icon": "floorlamp3red",
+                "custom_model_data": 10035
+            },
+            {
+                "name": "ffurniture_floorlamp3pink",
+                "allow_offhand": true,
+                "icon": "floorlamp3pink",
+                "custom_model_data": 10036
+            },
+            {
+                "name": "ffurniture_floorlamp3lightblue",
+                "allow_offhand": true,
+                "icon": "floorlamp3lightblue",
+                "custom_model_data": 10037
+            },
+            {
+                "name": "ffurniture_floorlamp3white",
+                "allow_offhand": true,
+                "icon": "floorlamp3white",
+                "custom_model_data": 10038
+            },
+            {
+                "name": "ffurniture_floorlamp3lime",
+                "allow_offhand": true,
+                "icon": "floorlamp3lime",
+                "custom_model_data": 10039
+            },
+            {
+                "name": "ffurniture_couch1white",
+                "allow_offhand": true,
+                "icon": "couch1white",
+                "custom_model_data": 10040
+            },
+            {
+                "name": "ffurniture_couch1red",
+                "allow_offhand": true,
+                "icon": "couch1red",
+                "custom_model_data": 10041
+            },
+            {
+                "name": "ffurniture_couch1lightblue",
+                "allow_offhand": true,
+                "icon": "couch1lightblue",
+                "custom_model_data": 10042
+            },
+            {
+                "name": "ffurniture_couch1green",
+                "allow_offhand": true,
+                "icon": "couch1green",
+                "custom_model_data": 10043
+            },
+            {
+                "name": "ffurniture_couch1gray",
+                "allow_offhand": true,
+                "icon": "couch1gray",
+                "custom_model_data": 10044
+            },
+            {
+                "name": "ffurniture_couch1pink",
+                "allow_offhand": true,
+                "icon": "couch1pink",
+                "custom_model_data": 10045
+            },
+            {
+                "name": "ffurniture_couch2gray",
+                "allow_offhand": true,
+                "icon": "couch2gray",
+                "custom_model_data": 10046
+            },
+            {
+                "name": "ffurniture_couch2white",
+                "allow_offhand": true,
+                "icon": "couch2white",
+                "custom_model_data": 10047
+            },
+            {
+                "name": "ffurniture_couch2red",
+                "allow_offhand": true,
+                "icon": "couch2red",
+                "custom_model_data": 10048
+            },
+            {
+                "name": "ffurniture_couch2pink",
+                "allow_offhand": true,
+                "icon": "couch2pink",
+                "custom_model_data": 10049
+            },
+            {
+                "name": "ffurniture_couch2blue",
+                "allow_offhand": true,
+                "icon": "couch2blue",
+                "custom_model_data": 10050
+            },
+            {
+                "name": "ffurniture_couch2green",
+                "allow_offhand": true,
+                "icon": "couch2green",
+                "custom_model_data": 10051
+            },
+            {
+                "name": "ffurniture_modernchairgray",
+                "allow_offhand": true,
+                "icon": "modernchairgray",
+                "custom_model_data": 10052
+            },
+            {
+                "name": "ffurniture_modernchairlightblue",
+                "allow_offhand": true,
+                "icon": "modernchairlightblue",
+                "custom_model_data": 10053
+            },
+            {
+                "name": "ffurniture_modernchairlime",
+                "allow_offhand": true,
+                "icon": "modernchairlime",
+                "custom_model_data": 10054
+            },
+            {
+                "name": "ffurniture_modernchairorange",
+                "allow_offhand": true,
+                "icon": "modernchairorange",
+                "custom_model_data": 10055
+            },
+            {
+                "name": "ffurniture_modernchairpink",
+                "allow_offhand": true,
+                "icon": "modernchairpink",
+                "custom_model_data": 10056
+            },
+            {
+                "name": "ffurniture_modernchairred",
+                "allow_offhand": true,
+                "icon": "modernchairred",
+                "custom_model_data": 10057
+            },
+            {
+                "name": "ffurniture_modernchairwhite",
+                "allow_offhand": true,
+                "icon": "modernchairwhite",
+                "custom_model_data": 10058
+            },
+            {
+                "name": "ffurniture_modernchair2red",
+                "allow_offhand": true,
+                "icon": "modernchair2red",
+                "custom_model_data": 10059
+            },
+            {
+                "name": "ffurniture_modernchair2gray",
+                "allow_offhand": true,
+                "icon": "modernchair2gray",
+                "custom_model_data": 10060
+            },
+            {
+                "name": "ffurniture_modernchair2lightblue",
+                "allow_offhand": true,
+                "icon": "modernchair2lightblue",
+                "custom_model_data": 10061
+            },
+            {
+                "name": "ffurniture_modernchair2lime",
+                "allow_offhand": true,
+                "icon": "modernchair2lime",
+                "custom_model_data": 10062
+            },
+            {
+                "name": "ffurniture_modernchair2orange",
+                "allow_offhand": true,
+                "icon": "modernchair2orange",
+                "custom_model_data": 10063
+            },
+            {
+                "name": "ffurniture_modernchair2pink",
+                "allow_offhand": true,
+                "icon": "modernchair2pink",
+                "custom_model_data": 10064
+            },
+            {
+                "name": "ffurniture_modernchair2white",
+                "allow_offhand": true,
+                "icon": "modernchair2white",
+                "custom_model_data": 10065
+            },
+            {
+                "name": "ffurniture_modernchair3white",
+                "allow_offhand": true,
+                "icon": "modernchair3white",
+                "custom_model_data": 10066
+            },
+            {
+                "name": "ffurniture_modernchair3gray",
+                "allow_offhand": true,
+                "icon": "modernchair3gray",
+                "custom_model_data": 10067
+            },
+            {
+                "name": "ffurniture_modernchair3red",
+                "allow_offhand": true,
+                "icon": "modernchair3red",
+                "custom_model_data": 10068
+            },
+            {
+                "name": "ffurniture_modernchair3lime",
+                "allow_offhand": true,
+                "icon": "modernchair3lime",
+                "custom_model_data": 10069
+            },
+            {
+                "name": "ffurniture_modernchair3orange",
+                "allow_offhand": true,
+                "icon": "modernchair3orange",
+                "custom_model_data": 10070
+            },
+            {
+                "name": "ffurniture_modernchair3lightblue",
+                "allow_offhand": true,
+                "icon": "modernchair3lightblue",
+                "custom_model_data": 10071
+            },
+            {
+                "name": "ffurniture_modernchair3pink",
+                "allow_offhand": true,
+                "icon": "modernchair3pink",
+                "custom_model_data": 10072
+            },
+            {
+                "name": "granite_cut_granite_cut",
+                "allow_offhand": true,
+                "icon": "granite_cut",
+                "custom_model_data": 10073
+            },
+            {
+                "name": "granite_cut_granite_cut_basketweave",
+                "allow_offhand": true,
+                "icon": "granite_cut_basketweave",
+                "custom_model_data": 10074
+            },
+            {
+                "name": "granite_cut_granite_cut_bond",
+                "allow_offhand": true,
+                "icon": "granite_cut_bond",
+                "custom_model_data": 10075
+            },
+            {
+                "name": "granite_cut_granite_cut_brick",
+                "allow_offhand": true,
+                "icon": "granite_cut_brick",
+                "custom_model_data": 10076
+            },
+            {
+                "name": "granite_cut_granite_cut_herring",
+                "allow_offhand": true,
+                "icon": "granite_cut_herring",
+                "custom_model_data": 10077
+            },
+            {
+                "name": "granite_cut_granite_cut_polished",
+                "allow_offhand": true,
+                "icon": "granite_cut_polished",
+                "custom_model_data": 10078
+            },
+            {
+                "name": "granite_cut_granite_cut_square",
+                "allow_offhand": true,
+                "icon": "granite_cut_square",
+                "custom_model_data": 10079
+            },
+            {
+                "name": "granite_cut_granite_cut_slab",
+                "allow_offhand": true,
+                "icon": "granite_cut_slab",
+                "custom_model_data": 10080
+            },
+            {
+                "name": "granite_cut_granite_cut_pillar",
+                "allow_offhand": true,
+                "icon": "granite_cut_pillar",
+                "custom_model_data": 10081
+            },
+            {
+                "name": "granite_cut_granite_cut_pillar_x",
+                "allow_offhand": true,
+                "icon": "granite_cut_pillar_x",
+                "custom_model_data": 10082
+            },
+            {
+                "name": "granite_cut_granite_cut_pillar_z",
+                "allow_offhand": true,
+                "icon": "granite_cut_pillar_z",
+                "custom_model_data": 10083
+            },
+            {
+                "name": "ffurniture_bedgray",
+                "allow_offhand": true,
+                "icon": "bedgray",
+                "custom_model_data": 10084
+            },
+            {
+                "name": "ffurniture_bedred",
+                "allow_offhand": true,
+                "icon": "bedred",
+                "custom_model_data": 10085
+            },
+            {
+                "name": "ffurniture_bedgreen",
+                "allow_offhand": true,
+                "icon": "bedgreen",
+                "custom_model_data": 10086
+            },
+            {
+                "name": "ffurniture_bedpurple",
+                "allow_offhand": true,
+                "icon": "bedpurple",
+                "custom_model_data": 10087
+            },
+            {
+                "name": "ffurniture_bedblue",
+                "allow_offhand": true,
+                "icon": "bedblue",
+                "custom_model_data": 10088
+            },
+            {
+                "name": "ffurniture_clockfloor",
+                "allow_offhand": true,
+                "icon": "clockfloor",
+                "custom_model_data": 10089
+            },
+            {
+                "name": "ffurniture_clockwall",
+                "allow_offhand": true,
+                "icon": "clockwall",
+                "custom_model_data": 10090
+            },
+            {
+                "name": "ffurniture_moderntable1",
+                "allow_offhand": true,
+                "icon": "moderntable1",
+                "custom_model_data": 10091
+            },
+            {
+                "name": "ffurniture_moderntable2",
+                "allow_offhand": true,
+                "icon": "moderntable2",
+                "custom_model_data": 10092
+            },
+            {
+                "name": "ffurniture_moderntable3",
+                "allow_offhand": true,
+                "icon": "moderntable3",
+                "custom_model_data": 10093
+            },
+            {
+                "name": "ffurniture_moderntable4",
+                "allow_offhand": true,
+                "icon": "moderntable4",
+                "custom_model_data": 10094
+            },
+            {
+                "name": "ffurniture_moderntable5black",
+                "allow_offhand": true,
+                "icon": "moderntable5black",
+                "custom_model_data": 10095
+            },
+            {
+                "name": "ffurniture_moderntable5white",
+                "allow_offhand": true,
+                "icon": "moderntable5white",
+                "custom_model_data": 10096
+            },
+            {
+                "name": "ffurniture_moderntable6white",
+                "allow_offhand": true,
+                "icon": "moderntable6white",
+                "custom_model_data": 10097
+            },
+            {
+                "name": "ffurniture_moderntable6brown",
+                "allow_offhand": true,
+                "icon": "moderntable6brown",
+                "custom_model_data": 10098
+            },
+            {
+                "name": "ffurniture_moderntable6wood",
+                "allow_offhand": true,
+                "icon": "moderntable6wood",
+                "custom_model_data": 10099
+            },
+            {
+                "name": "diorite_cut_diorite_cut",
+                "allow_offhand": true,
+                "icon": "diorite_cut",
+                "custom_model_data": 10100
+            },
+            {
+                "name": "diorite_cut_diorite_cut_basketweave",
+                "allow_offhand": true,
+                "icon": "diorite_cut_basketweave",
+                "custom_model_data": 10101
+            },
+            {
+                "name": "diorite_cut_diorite_cut_bond",
+                "allow_offhand": true,
+                "icon": "diorite_cut_bond",
+                "custom_model_data": 10102
+            },
+            {
+                "name": "diorite_cut_diorite_cut_brick",
+                "allow_offhand": true,
+                "icon": "diorite_cut_brick",
+                "custom_model_data": 10103
+            },
+            {
+                "name": "diorite_cut_diorite_cut_herring",
+                "allow_offhand": true,
+                "icon": "diorite_cut_herring",
+                "custom_model_data": 10104
+            },
+            {
+                "name": "diorite_cut_diorite_cut_polished",
+                "allow_offhand": true,
+                "icon": "diorite_cut_polished",
+                "custom_model_data": 10105
+            },
+            {
+                "name": "diorite_cut_diorite_cut_square",
+                "allow_offhand": true,
+                "icon": "diorite_cut_square",
+                "custom_model_data": 10106
+            },
+            {
+                "name": "diorite_cut_diorite_cut_slab",
+                "allow_offhand": true,
+                "icon": "diorite_cut_slab",
+                "custom_model_data": 10107
+            },
+            {
+                "name": "diorite_cut_diorite_cut_pillar",
+                "allow_offhand": true,
+                "icon": "diorite_cut_pillar",
+                "custom_model_data": 10108
+            },
+            {
+                "name": "diorite_cut_diorite_cut_pillar_x",
+                "allow_offhand": true,
+                "icon": "diorite_cut_pillar_x",
+                "custom_model_data": 10109
+            },
+            {
+                "name": "diorite_cut_diorite_cut_pillar_z",
+                "allow_offhand": true,
+                "icon": "diorite_cut_pillar_z",
+                "custom_model_data": 10110
+            },
+            {
+                "name": "ffurniture_wardrobe1",
+                "allow_offhand": true,
+                "icon": "wardrobe1",
+                "custom_model_data": 10111
+            },
+            {
+                "name": "ffurniture_shelfblack",
+                "allow_offhand": true,
+                "icon": "shelfblack",
+                "custom_model_data": 10112
+            },
+            {
+                "name": "ffurniture_shelfgray",
+                "allow_offhand": true,
+                "icon": "shelfgray",
+                "custom_model_data": 10113
+            },
+            {
+                "name": "ffurniture_shelfcolor",
+                "allow_offhand": true,
+                "icon": "shelfcolor",
+                "custom_model_data": 10114
+            },
+            {
+                "name": "ffurniture_shelf2black",
+                "allow_offhand": true,
+                "icon": "shelf2black",
+                "custom_model_data": 10115
+            },
+            {
+                "name": "ffurniture_shelf2quartz",
+                "allow_offhand": true,
+                "icon": "shelf2quartz",
+                "custom_model_data": 10116
+            },
+            {
+                "name": "ffurniture_shelf2wood",
+                "allow_offhand": true,
+                "icon": "shelf2wood",
+                "custom_model_data": 10117
+            },
+            {
+                "name": "ffurniture_shelf3standblack",
+                "allow_offhand": true,
+                "icon": "shelf3standblack",
+                "custom_model_data": 10118
+            },
+            {
+                "name": "ffurniture_shelf3standwhite",
+                "allow_offhand": true,
+                "icon": "shelf3standwhite",
+                "custom_model_data": 10119
+            },
+            {
+                "name": "ffurniture_shelf3wallwhite",
+                "allow_offhand": true,
+                "icon": "shelf3wallwhite",
+                "custom_model_data": 10120
+            },
+            {
+                "name": "ffurniture_shelf3wallblack",
+                "allow_offhand": true,
+                "icon": "shelf3wallblack",
+                "custom_model_data": 10121
+            },
+            {
+                "name": "ffurniture_shelf4wallwhite",
+                "allow_offhand": true,
+                "icon": "shelf4wallwhite",
+                "custom_model_data": 10122
+            },
+            {
+                "name": "ffurniture_shelf4wallblack",
+                "allow_offhand": true,
+                "icon": "shelf4wallblack",
+                "custom_model_data": 10123
+            },
+            {
+                "name": "ffurniture_shelf5",
+                "allow_offhand": true,
+                "icon": "shelf5",
+                "custom_model_data": 10124
+            },
+            {
+                "name": "andesite_cut_andesite_cut",
+                "allow_offhand": true,
+                "icon": "andesite_cut",
+                "custom_model_data": 10125
+            },
+            {
+                "name": "andesite_cut_andesite_cut_basketweave",
+                "allow_offhand": true,
+                "icon": "andesite_cut_basketweave",
+                "custom_model_data": 10126
+            },
+            {
+                "name": "andesite_cut_andesite_cut_bond",
+                "allow_offhand": true,
+                "icon": "andesite_cut_bond",
+                "custom_model_data": 10127
+            },
+            {
+                "name": "andesite_cut_andesite_cut_brick",
+                "allow_offhand": true,
+                "icon": "andesite_cut_brick",
+                "custom_model_data": 10128
+            },
+            {
+                "name": "andesite_cut_andesite_cut_herring",
+                "allow_offhand": true,
+                "icon": "andesite_cut_herring",
+                "custom_model_data": 10129
+            },
+            {
+                "name": "andesite_cut_andesite_cut_polished",
+                "allow_offhand": true,
+                "icon": "andesite_cut_polished",
+                "custom_model_data": 10130
+            },
+            {
+                "name": "andesite_cut_andesite_cut_square",
+                "allow_offhand": true,
+                "icon": "andesite_cut_square",
+                "custom_model_data": 10131
+            },
+            {
+                "name": "andesite_cut_andesite_cut_slab",
+                "allow_offhand": true,
+                "icon": "andesite_cut_slab",
+                "custom_model_data": 10132
+            },
+            {
+                "name": "andesite_cut_andesite_cut_pillar",
+                "allow_offhand": true,
+                "icon": "andesite_cut_pillar",
+                "custom_model_data": 10133
+            },
+            {
+                "name": "andesite_cut_andesite_cut_pillar_x",
+                "allow_offhand": true,
+                "icon": "andesite_cut_pillar_x",
+                "custom_model_data": 10134
+            },
+            {
+                "name": "andesite_cut_andesite_cut_pillar_z",
+                "allow_offhand": true,
+                "icon": "andesite_cut_pillar_z",
+                "custom_model_data": 10135
+            },
+            {
+                "name": "ffurniture_trading_machine",
+                "allow_offhand": true,
+                "icon": "trading_machine",
+                "custom_model_data": 10136
+            },
+            {
+                "name": "ffurniture_tvboard1gray",
+                "allow_offhand": true,
+                "icon": "tvboard1gray",
+                "custom_model_data": 10137
+            },
+            {
+                "name": "ffurniture_tvboard1brown",
+                "allow_offhand": true,
+                "icon": "tvboard1brown",
+                "custom_model_data": 10138
+            },
+            {
+                "name": "ffurniture_tvboard1white",
+                "allow_offhand": true,
+                "icon": "tvboard1white",
+                "custom_model_data": 10139
+            },
+            {
+                "name": "_iainternal_icon_left_blue",
+                "allow_offhand": true,
+                "icon": "icon_left_blue",
+                "custom_model_data": 10140
+            },
+            {
+                "name": "_iainternal_icon_right_blue",
+                "allow_offhand": true,
+                "icon": "icon_right_blue",
+                "custom_model_data": 10141
+            },
+            {
+                "name": "_iainternal_icon_search",
+                "allow_offhand": true,
+                "icon": "icon_search",
+                "custom_model_data": 10142
+            },
+            {
+                "name": "_iainternal_icon_cancel",
+                "allow_offhand": true,
+                "icon": "icon_cancel",
+                "custom_model_data": 10143
+            },
+            {
+                "name": "_iainternal_icon_arrow_chest",
+                "allow_offhand": true,
+                "icon": "icon_arrow_chest",
+                "custom_model_data": 10144
+            },
+            {
+                "name": "_iainternal_icon_back_orange",
+                "allow_offhand": true,
+                "icon": "icon_back_orange",
+                "custom_model_data": 10145
+            },
+            {
+                "name": "_iainternal_icon_next_orange",
+                "allow_offhand": true,
+                "icon": "icon_next_orange",
+                "custom_model_data": 10146
+            },
+            {
+                "name": "chinese_new_year_cny_bunny_statue",
+                "allow_offhand": true,
+                "icon": "bunny_statue",
+                "custom_model_data": 10147
+            },
+            {
+                "name": "chinese_new_year_cny_ceiling_coin",
+                "allow_offhand": true,
+                "icon": "ceiling_coin",
+                "custom_model_data": 10148
+            },
+            {
+                "name": "chinese_new_year_cny_decorated_lantern",
+                "allow_offhand": true,
+                "icon": "decorated_lantern",
+                "custom_model_data": 10149
+            },
+            {
+                "name": "chinese_new_year_cny_decorated_lanterns",
+                "allow_offhand": true,
+                "icon": "decorated_lanterns",
+                "custom_model_data": 10150
+            },
+            {
+                "name": "chinese_new_year_cny_decorated_long_lantern",
+                "allow_offhand": true,
+                "icon": "decorated_long_lantern",
+                "custom_model_data": 10151
+            },
+            {
+                "name": "chinese_new_year_cny_decorated_tall_lantern",
+                "allow_offhand": true,
+                "icon": "decorated_tall_lantern",
+                "custom_model_data": 10152
+            },
+            {
+                "name": "chinese_new_year_cny_firecrackers",
+                "allow_offhand": true,
+                "icon": "firecrackers",
+                "custom_model_data": 10153
+            },
+            {
+                "name": "chinese_new_year_cny_kumquats",
+                "allow_offhand": true,
+                "icon": "kumquats",
+                "custom_model_data": 10154
+            },
+            {
+                "name": "chinese_new_year_cny_lantern",
+                "allow_offhand": true,
+                "icon": "lantern",
+                "custom_model_data": 10155
+            },
+            {
+                "name": "chinese_new_year_cny_lanterns",
+                "allow_offhand": true,
+                "icon": "lanterns",
+                "custom_model_data": 10156
+            },
+            {
+                "name": "chinese_new_year_cny_long_lantern",
+                "allow_offhand": true,
+                "icon": "long_lantern",
+                "custom_model_data": 10157
+            },
+            {
+                "name": "chinese_new_year_cny_lucky_banner",
+                "allow_offhand": true,
+                "icon": "lucky_banner",
+                "custom_model_data": 10158
+            },
+            {
+                "name": "chinese_new_year_cny_lucky_kumquats",
+                "allow_offhand": true,
+                "icon": "lucky_kumquats",
+                "custom_model_data": 10159
+            },
+            {
+                "name": "chinese_new_year_cny_tall_lantern",
+                "allow_offhand": true,
+                "icon": "tall_lantern",
+                "custom_model_data": 10160
+            },
+            {
+                "name": "chinese_new_year_cny_wall_coin",
+                "allow_offhand": true,
+                "icon": "wall_coin",
+                "custom_model_data": 10161
+            },
+            {
+                "name": "chinese_new_year_cny_patterened_floor",
+                "allow_offhand": true,
+                "icon": "patterened_floor",
+                "custom_model_data": 10162
+            },
+            {
+                "name": "chinese_new_year_cny_patterened_floor2",
+                "allow_offhand": true,
+                "icon": "patterened_floor2",
+                "custom_model_data": 10163
+            },
+            {
+                "name": "chinese_new_year_cny_pillar",
+                "allow_offhand": true,
+                "icon": "cny_pillar",
+                "custom_model_data": 10164
+            },
+            {
+                "name": "iasurvival_ruby_ore",
+                "allow_offhand": true,
+                "icon": "ruby_ore",
+                "custom_model_data": 10165
+            },
+            {
+                "name": "iasurvival_modern_quartz",
+                "allow_offhand": true,
+                "icon": "modern_quartz",
+                "custom_model_data": 10166
+            },
+            {
+                "name": "iasurvival_coal_dirt_ore",
+                "allow_offhand": true,
+                "icon": "coal_dirt_ore",
+                "custom_model_data": 10167
+            },
+            {
+                "name": "iasurvival_turquoise_ore",
+                "allow_offhand": true,
+                "icon": "turquoise_ore",
+                "custom_model_data": 10168
+            },
+            {
+                "name": "iasurvival_crystal_block",
+                "allow_offhand": true,
+                "icon": "crystal_block",
+                "custom_model_data": 10169
+            },
+            {
+                "name": "iasurvival_nice_wood",
+                "allow_offhand": true,
+                "icon": "nice_wood",
+                "custom_model_data": 10170
+            },
+            {
+                "name": "iasurvival_ruby_block",
+                "allow_offhand": true,
+                "icon": "ruby_block",
+                "custom_model_data": 10171
+            },
+            {
+                "name": "iasurvival_end_ore",
+                "allow_offhand": true,
+                "icon": "end_ore",
+                "custom_model_data": 10172
+            },
+            {
+                "name": "iasurvival_customization_table",
+                "allow_offhand": true,
+                "icon": "customization_table",
+                "custom_model_data": 10173
+            },
+            {
+                "name": "iasurvival_turquoise_block",
+                "allow_offhand": true,
+                "icon": "turquoise_block",
+                "custom_model_data": 10174
+            },
+            {
+                "name": "iasurvival_dark_amethyst_ore",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_ore",
+                "custom_model_data": 10175
+            },
+            {
+                "name": "iasurvival_spinel_block",
+                "allow_offhand": true,
+                "icon": "spinel_block",
+                "custom_model_data": 10176
+            },
+            {
+                "name": "iasurvival_cassiterite_block",
+                "allow_offhand": true,
+                "icon": "cassiterite_block",
+                "custom_model_data": 10177
+            },
+            {
+                "name": "iasurvival_dark_amethyst_prism_block",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_prism_block",
+                "custom_model_data": 10178
+            },
+            {
+                "name": "iasurvival_iron_dirt_ore",
+                "allow_offhand": true,
+                "icon": "iron_dirt_ore",
+                "custom_model_data": 10179
+            },
+            {
+                "name": "iasurvival_restoration_table",
+                "allow_offhand": true,
+                "icon": "restoration_table",
+                "custom_model_data": 10180
+            },
+            {
+                "name": "iasurvival_modern_stone",
+                "allow_offhand": true,
+                "icon": "modern_stone",
+                "custom_model_data": 10181
+            },
+            {
+                "name": "iasurvival_nice_stone",
+                "allow_offhand": true,
+                "icon": "nice_stone",
+                "custom_model_data": 10182
+            },
+            {
+                "name": "iasurvival_blaze_powder_ore",
+                "allow_offhand": true,
+                "icon": "blaze_powder_ore",
+                "custom_model_data": 10183
+            },
+            {
+                "name": "iasurvival_spinel_ore",
+                "allow_offhand": true,
+                "icon": "spinel_ore",
+                "custom_model_data": 10184
+            },
+            {
+                "name": "iasurvival_dark_amethyst_block",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_block",
+                "custom_model_data": 10185
+            },
+            {
+                "name": "iasurvival_forgotten_crying_obsidian",
+                "allow_offhand": true,
+                "icon": "forgotten_crying_obsidian",
+                "custom_model_data": 10186
+            },
+            {
+                "name": "iasurvival_cassiterite_ore",
+                "allow_offhand": true,
+                "icon": "cassiterite_ore",
+                "custom_model_data": 10187
+            },
+            {
+                "name": "iasurvival_aqua_aura_ore",
+                "allow_offhand": true,
+                "icon": "aqua_aura_ore",
+                "custom_model_data": 10188
+            },
+            {
+                "name": "iasurvival_aqua_aura_block",
+                "allow_offhand": true,
+                "icon": "aqua_aura_block",
+                "custom_model_data": 10189
+            },
+            {
+                "name": "iasurvival_gold_dirt_ore",
+                "allow_offhand": true,
+                "icon": "gold_dirt_ore",
+                "custom_model_data": 10190
+            },
+            {
+                "name": "iasurvival_modern_sandstone",
+                "allow_offhand": true,
+                "icon": "modern_sandstone",
+                "custom_model_data": 10191
+            },
+            {
+                "name": "pepper_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10197
+            },
+            {
+                "name": "pepper_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10198
+            },
+            {
+                "name": "pepper_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10199
+            },
+            {
+                "name": "pepper_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10200
+            },
+            {
+                "name": "pepper_stage_5",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10201
+            },
+            {
+                "name": "pepper_seeds",
+                "allow_offhand": true,
+                "icon": "pepper_seeds",
+                "frame": 0,
+                "custom_model_data": 10202
+            },
+            {
+                "name": "eggplant_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10203
+            },
+            {
+                "name": "eggplant_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10204
+            },
+            {
+                "name": "eggplant_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10205
+            },
+            {
+                "name": "eggplant_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10206
+            },
+            {
+                "name": "eggplant_seeds",
+                "allow_offhand": true,
+                "icon": "eggplant_seeds",
+                "frame": 0,
+                "custom_model_data": 10207
+            },
+            {
+                "name": "grape_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10208
+            },
+            {
+                "name": "grape_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10209
+            },
+            {
+                "name": "grape_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10210
+            },
+            {
+                "name": "grape_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10211
+            },
+            {
+                "name": "grape_stage_5",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10212
+            },
+            {
+                "name": "grape_stage_6",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10213
+            },
+            {
+                "name": "grape_seeds",
+                "allow_offhand": true,
+                "icon": "grape_seeds",
+                "frame": 0,
+                "custom_model_data": 10214
+            },
+            {
+                "name": "chinese_cabbage_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10215
+            },
+            {
+                "name": "chinese_cabbage_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10216
+            },
+            {
+                "name": "chinese_cabbage_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10217
+            },
+            {
+                "name": "chinese_cabbage_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10218
+            },
+            {
+                "name": "chinese_cabbage_seeds",
+                "allow_offhand": true,
+                "icon": "chinese_cabbage_seeds",
+                "frame": 0,
+                "custom_model_data": 10219
+            },
+            {
+                "name": "pot",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10220
+            },
+            {
+                "name": "watered_pot",
+                "allow_offhand": true,
+                "icon": "watered_pot",
+                "frame": 0,
+                "custom_model_data": 10221
+            },
+            {
+                "name": "crow_stand",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10222
+            },
+            {
+                "name": "crow_fly",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10223
+            },
+            {
+                "name": "scarecrow",
+                "allow_offhand": true,
+                "icon": "scarecrow",
+                "frame": 0,
+                "custom_model_data": 10224
+            },
+            {
+                "name": "greenhouse_glass",
+                "allow_offhand": true,
+                "icon": "greenhouse_glass",
+                "frame": 0,
+                "custom_model_data": 10225
+            },
+            {
+                "name": "crop_stage_death",
+                "allow_offhand": true,
+                "icon": "crop_stage_death",
+                "frame": 0,
+                "custom_model_data": 10226
+            },{
+                "name": "soil_surveyor",
+                "allow_offhand": true,
+                "icon": "soil_surveyor",
+                "frame": 0,
+                "custom_model_data": 10227
+            },
+            {
+                "name": "speed_grow_1",
+                "allow_offhand": true,
+                "icon": "speed_grow_1",
+                "frame": 0,
+                "custom_model_data": 10228
+            },
+            {
+                "name": "speed_grow_2",
+                "allow_offhand": true,
+                "icon": "speed_grow_2",
+                "frame": 0,
+                "custom_model_data": 10229
+            },
+            {
+                "name": "speed_grow_3",
+                "allow_offhand": true,
+                "icon": "speed_grow_3",
+                "frame": 0,
+                "custom_model_data": 10230
+            },
+            {
+                "name": "soil_retain_1",
+                "allow_offhand": true,
+                "icon": "soil_retain_1",
+                "frame": 0,
+                "custom_model_data": 10231
+            },
+            {
+                "name": "soil_retain_2",
+                "allow_offhand": true,
+                "icon": "soil_retain_2",
+                "frame": 0,
+                "custom_model_data": 10232
+            },
+            {
+                "name": "soil_retain_3",
+                "allow_offhand": true,
+                "icon": "soil_retain_3",
+                "frame": 0,
+                "custom_model_data": 10233
+            },
+            {
+                "name": "quality_1",
+                "allow_offhand": true,
+                "icon": "quality_1",
+                "frame": 0,
+                "custom_model_data": 10234
+            },
+            {
+                "name": "quality_2",
+                "allow_offhand": true,
+                "icon": "quality_2",
+                "frame": 0,
+                "custom_model_data": 10235
+            },
+            {
+                "name": "quality_3",
+                "allow_offhand": true,
+                "icon": "quality_3",
+                "frame": 0,
+                "custom_model_data": 10236
+            },
+            {
+                "name": "yield_increase_1",
+                "allow_offhand": true,
+                "icon": "yield_increase_1",
+                "frame": 0,
+                "custom_model_data": 10237
+            },
+            {
+                "name": "yield_increase_2",
+                "allow_offhand": true,
+                "icon": "yield_increase_2",
+                "frame": 0,
+                "custom_model_data": 10238
+            },
+            {
+                "name": "yield_increase_3",
+                "allow_offhand": true,
+                "icon": "yield_increase_3",
+                "frame": 0,
+                "custom_model_data": 10239
+            },
+            {
+                "name": "variation_1",
+                "allow_offhand": true,
+                "icon": "variation_1",
+                "frame": 0,
+                "custom_model_data": 10240
+            },
+            {
+                "name": "variation_2",
+                "allow_offhand": true,
+                "icon": "variation_2",
+                "frame": 0,
+                "custom_model_data": 10241
+            },
+            {
+                "name": "variation_3",
+                "allow_offhand": true,
+                "icon": "variation_3",
+                "frame": 0,
+                "custom_model_data": 10242
+            },
+            {
+                "name": "pineapple_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10243
+            },
+            {
+                "name": "pineapple_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10244
+            },
+            {
+                "name": "pineapple_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10245
+            },
+            {
+                "name": "pineapple_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10246
+            },
+            {
+                "name": "pineapple_seeds",
+                "allow_offhand": true,
+                "icon": "pineapple_seeds",
+                "frame": 0,
+                "custom_model_data": 10247
+            },
+            {
+                "name": "gigantic_pineapple",
+                "allow_offhand": true,
+                "icon": "gigantic_pineapple",
+                "frame": 0,
+                "custom_model_data": 10248
+            },
+            {
+                "name": "hop_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10249
+            },
+            {
+                "name": "hop_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10250
+            },
+            {
+                "name": "hop_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10251
+            },
+            {
+                "name": "hop_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10252
+            },
+            {
+                "name": "hop_seeds",
+                "allow_offhand": true,
+                "icon": "hop_seeds",
+                "frame": 0,
+                "custom_model_data": 10253
+            },
+            {
+                "name": "pitaya_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10254
+            },
+            {
+                "name": "pitaya_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10255
+            },
+            {
+                "name": "pitaya_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10256
+            },
+            {
+                "name": "pitaya_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10257
+            },
+            {
+                "name": "pitaya_stage_5",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10258
+            },
+            {
+                "name": "pitaya_stage_6",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10259
+            },
+            {
+                "name": "pitaya_seeds",
+                "allow_offhand": true,
+                "icon": "pitaya_seeds",
+                "frame": 0,
+                "custom_model_data": 10260
+            },
+            {
+                "name": "cabbage_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10261
+            },
+            {
+                "name": "cabbage_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10262
+            },
+            {
+                "name": "cabbage_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10263
+            },
+            {
+                "name": "cabbage_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10264
+            },
+            {
+                "name": "cabbage_seeds",
+                "allow_offhand": true,
+                "icon": "cabbage_seeds",
+                "frame": 0,
+                "custom_model_data": 10265
+            },
+            {
+                "name": "gigantic_cabbage",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10266
+            },
+            {
+                "name": "corn_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10267
+            },
+            {
+                "name": "corn_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10268
+            },
+            {
+                "name": "corn_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10269
+            },
+            {
+                "name": "corn_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10270
+            },
+            {
+                "name": "corn_seeds",
+                "allow_offhand": true,
+                "icon": "corn_seeds",
+                "frame": 0,
+                "custom_model_data": 10271
+            },
+            {
+                "name": "tomato_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10272
+            },
+            {
+                "name": "tomato_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10273
+            },
+            {
+                "name": "tomato_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10274
+            },
+            {
+                "name": "tomato_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10275
+            },
+            {
+                "name": "tomato_stage_golden",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10276
+            },
+            {
+                "name": "tomato_seeds",
+                "allow_offhand": true,
+                "icon": "tomato_seeds",
+                "frame": 0,
+                "custom_model_data": 10277
+            },
+            {
+                "name": "gigantic_tomato",
+                "allow_offhand": true,
+                "icon": "gigantic_tomato",
+                "frame": 0,
+                "custom_model_data": 10278
+            },
+            {
+                "name": "garlic_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10279
+            },
+            {
+                "name": "garlic_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10280
+            },
+            {
+                "name": "garlic_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10281
+            },
+            {
+                "name": "garlic_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10282
+            },
+            {
+                "name": "garlic_seeds",
+                "allow_offhand": true,
+                "icon": "garlic_seeds",
+                "frame": 0,
+                "custom_model_data": 10283
+            },
+            {
+                "name": "redpacket_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10284
+            },
+            {
+                "name": "redpacket_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10285
+            },
+            {
+                "name": "redpacket_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10286
+            },
+            {
+                "name": "redpacket_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10287
+            },
+            {
+                "name": "redpacket_stage_5",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10288
+            },
+            {
+                "name": "redpacket_stage_6",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10289
+            },
+            {
+                "name": "redpacket_seeds",
+                "allow_offhand": true,
+                "icon": "redpacket_seeds",
+                "frame": 0,
+                "custom_model_data": 10290
+            },
+            {
+                "name": "redpacket",
+                "allow_offhand": true,
+                "icon": "redpacket",
+                "frame": 0,
+                "custom_model_data": 10291
+            },
+            {
+                "name": "apple_stage_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10292
+            },
+            {
+                "name": "apple_stage_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10293
+            },
+            {
+                "name": "apple_stage_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10294
+            },
+            {
+                "name": "apple_stage_4",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10295
+            },
+            {
+                "name": "apple_stage_5",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10296
+            },
+            {
+                "name": "apple_stage_6",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10297
+            },
+            {
+                "name": "water_effect",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10298
+            },
+            {
+                "name": "sprinkler_1",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10299
+            },
+            {
+                "name": "sprinkler_1_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_1_item",
+                "frame": 0,
+                "custom_model_data": 10300
+            },
+            {
+                "name": "sprinkler_2",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10301
+            },
+            {
+                "name": "sprinkler_2_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_2_item",
+                "frame": 0,
+                "custom_model_data": 10302
+            },
+            {
+                "name": "sprinkler_3",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 10303
+            },
+            {
+                "name": "sprinkler_3_item",
+                "allow_offhand": true,
+                "icon": "sprinkler_3_item",
+                "frame": 0,
+                "custom_model_data": 10304
+            },
+            {
+                "name": "mythril_ore",
+                "allow_offhand": true,
+                "icon": "mythril_ore",
+                "frame": 0,
+                "custom_model_data": 10305
+            },
+            {
+                "name": "mythril_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "mythril_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10306
+            },
+            {
+                "name": "raw_mythril_block",
+                "allow_offhand": true,
+                "icon": "raw_mythril_block",
+                "frame": 0,
+                "custom_model_data": 10307
+            },
+            {
+                "name": "mythril_block",
+                "allow_offhand": true,
+                "icon": "mythril_block",
+                "frame": 0,
+                "custom_model_data": 10308
+            },
+            {
+                "name": "malachite_ore",
+                "allow_offhand": true,
+                "icon": "malachite_ore",
+                "frame": 0,
+                "custom_model_data": 10309
+            },
+            {
+                "name": "malachite_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "malachite_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10310
+            },
+            {
+                "name": "raw_malachite_block",
+                "allow_offhand": true,
+                "icon": "raw_malachite_block",
+                "frame": 0,
+                "custom_model_data": 10311
+            },
+            {
+                "name": "malachite_block",
+                "allow_offhand": true,
+                "icon": "malachite_block",
+                "frame": 0,
+                "custom_model_data": 10312
+            },
+            {
+                "name": "amethyst_ore",
+                "allow_offhand": true,
+                "icon": "amethyst_ore",
+                "frame": 0,
+                "custom_model_data": 10313
+            },
+            {
+                "name": "amethyst_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "amethyst_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10314
+            },
+            {
+                "name": "raw_amethyst_block",
+                "allow_offhand": true,
+                "icon": "raw_amethyst_block",
+                "frame": 0,
+                "custom_model_data": 10315
+            },
+            {
+                "name": "more_amethyst_block",
+                "allow_offhand": true,
+                "icon": "more_amethyst_block",
+                "frame": 0,
+                "custom_model_data": 10316
+            },
+            {
+                "name": "amber_ore",
+                "allow_offhand": true,
+                "icon": "amber_ore",
+                "frame": 0,
+                "custom_model_data": 10317
+            },
+            {
+                "name": "amber_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "amber_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10318
+            },
+            {
+                "name": "raw_amber_block",
+                "allow_offhand": true,
+                "icon": "raw_amber_block",
+                "frame": 0,
+                "custom_model_data": 10319
+            },
+            {
+                "name": "amber_block",
+                "allow_offhand": true,
+                "icon": "amber_block",
+                "frame": 0,
+                "custom_model_data": 10320
+            },
+            {
+                "name": "more_ruby_ore",
+                "allow_offhand": true,
+                "icon": "more_ruby_ore",
+                "frame": 0,
+                "custom_model_data": 10321
+            },
+            {
+                "name": "ruby_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "ruby_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10322
+            },
+            {
+                "name": "raw_ruby_block",
+                "allow_offhand": true,
+                "icon": "raw_ruby_block",
+                "frame": 0,
+                "custom_model_data": 10323
+            },
+            {
+                "name": "more_ruby_block",
+                "allow_offhand": true,
+                "icon": "more_ruby_block",
+                "frame": 0,
+                "custom_model_data": 10324
+            },
+            {
+                "name": "jade_ore",
+                "allow_offhand": true,
+                "icon": "jade_ore",
+                "frame": 0,
+                "custom_model_data": 10325
+            },
+            {
+                "name": "jade_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "jade_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10326
+            },
+            {
+                "name": "raw_jade_block",
+                "allow_offhand": true,
+                "icon": "raw_jade_block",
+                "frame": 0,
+                "custom_model_data": 10327
+            },
+            {
+                "name": "jade_block",
+                "allow_offhand": true,
+                "icon": "jade_block",
+                "frame": 0,
+                "custom_model_data": 10328
+            },
+            {
+                "name": "silver_ore",
+                "allow_offhand": true,
+                "icon": "silver_ore",
+                "frame": 0,
+                "custom_model_data": 10329
+            },
+            {
+                "name": "silver_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "silver_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10330
+            },
+            {
+                "name": "raw_silver_block",
+                "allow_offhand": true,
+                "icon": "raw_silver_block",
+                "frame": 0,
+                "custom_model_data": 10331
+            },
+            {
+                "name": "silver_block",
+                "allow_offhand": true,
+                "icon": "silver_block",
+                "frame": 0,
+                "custom_model_data": 10332
+            },
+            {
+                "name": "iridium_ore",
+                "allow_offhand": true,
+                "icon": "iridium_ore",
+                "frame": 0,
+                "custom_model_data": 10333
+            },
+            {
+                "name": "iridium_ore_deepslate",
+                "allow_offhand": true,
+                "icon": "iridium_ore_deepslate",
+                "frame": 0,
+                "custom_model_data": 10334
+            },
+            {
+                "name": "raw_iridium_block",
+                "allow_offhand": true,
+                "icon": "raw_iridium_block",
+                "frame": 0,
+                "custom_model_data": 10335
+            },
+            {
+                "name": "iridium_block",
+                "allow_offhand": true,
+                "icon": "iridium_block",
+                "frame": 0,
+                "custom_model_data": 10336
+            },
+            {
+                "name": "mythril_nugget",
+                "allow_offhand": true,
+                "icon": "mythril_nugget",
+                "frame": 0,
+                "custom_model_data": 10337
+            },
+            {
+                "name": "raw_mythril",
+                "allow_offhand": true,
+                "icon": "raw_mythril",
+                "frame": 0,
+                "custom_model_data": 10338
+            },
+            {
+                "name": "mythril_ingot",
+                "allow_offhand": true,
+                "icon": "mythril_ingot",
+                "frame": 0,
+                "custom_model_data": 10339
+            },
+            {
+                "name": "malachite_nugget",
+                "allow_offhand": true,
+                "icon": "malachite_nugget",
+                "frame": 0,
+                "custom_model_data": 10340
+            },
+            {
+                "name": "malachite",
+                "allow_offhand": true,
+                "icon": "malachite",
+                "frame": 0,
+                "custom_model_data": 10341
+            },
+            {
+                "name": "malachite_ingot",
+                "allow_offhand": true,
+                "icon": "malachite_ingot",
+                "frame": 0,
+                "custom_model_data": 10342
+            },
+            {
+                "name": "amethyst_nugget",
+                "allow_offhand": true,
+                "icon": "amethyst_nugget",
+                "frame": 0,
+                "custom_model_data": 10343
+            },
+            {
+                "name": "amethyst",
+                "allow_offhand": true,
+                "icon": "amethyst",
+                "frame": 0,
+                "custom_model_data": 10344
+            },
+            {
+                "name": "amethyst_ingot",
+                "allow_offhand": true,
+                "icon": "amethyst_ingot",
+                "frame": 0,
+                "custom_model_data": 10345
+            },
+            {
+                "name": "amber_nugget",
+                "allow_offhand": true,
+                "icon": "amber_nugget",
+                "frame": 0,
+                "custom_model_data": 10346
+            },
+            {
+                "name": "amber",
+                "allow_offhand": true,
+                "icon": "amber_shard",
+                "frame": 0,
+                "custom_model_data": 10347
+            },
+            {
+                "name": "amber_ingot",
+                "allow_offhand": true,
+                "icon": "amber_ingot",
+                "frame": 0,
+                "custom_model_data": 10348
+            },
+            {
+                "name": "ruby",
+                "allow_offhand": true,
+                "icon": "more_ruby",
+                "frame": 0,
+                "custom_model_data": 10349
+            },
+            {
+                "name": "ruby_ingot",
+                "allow_offhand": true,
+                "icon": "ruby_ingot",
+                "frame": 0,
+                "custom_model_data": 10350
+            },
+            {
+                "name": "jade_nugget",
+                "allow_offhand": true,
+                "icon": "jade_nugget",
+                "frame": 0,
+                "custom_model_data": 10351
+            },
+            {
+                "name": "raw_jade",
+                "allow_offhand": true,
+                "icon": "raw_jade",
+                "frame": 0,
+                "custom_model_data": 10352
+            },
+            {
+                "name": "jade_ingot",
+                "allow_offhand": true,
+                "icon": "jade_ingot",
+                "frame": 0,
+                "custom_model_data": 10353
+            },
+            {
+                "name": "silver_nugget",
+                "allow_offhand": true,
+                "icon": "silver_nugget",
+                "frame": 0,
+                "custom_model_data": 10354
+            },
+            {
+                "name": "silver",
+                "allow_offhand": true,
+                "icon": "silver",
+                "frame": 0,
+                "custom_model_data": 10355
+            },
+            {
+                "name": "silver_ingot",
+                "allow_offhand": true,
+                "icon": "silver_ingot",
+                "frame": 0,
+                "custom_model_data": 10356
+            },
+            {
+                "name": "iridium_nugget",
+                "allow_offhand": true,
+                "icon": "iridium_nugget",
+                "frame": 0,
+                "custom_model_data": 10357
+            },
+            {
+                "name": "raw_iridium",
+                "allow_offhand": true,
+                "icon": "raw_iridium",
+                "frame": 0,
+                "custom_model_data": 10358
+            },
+            {
+                "name": "iridium_ingot",
+                "allow_offhand": true,
+                "icon": "iridium_ingot",
+                "frame": 0,
+                "custom_model_data": 10359
+            },
+            {
+                "name": "more_water_effect",
+                "allow_offhand": true,
+                "icon": "paper",
+                "frame": 0,
+                "custom_model_data": 49998
+            },
+            {
+                "name": "lava_effect",
+                "allow_offhand": true,
+                "icon": "lava_effect",
+                "frame": 0,
+                "custom_model_data": 49999
+            },
+            {
+                "name": "fish_compass",
+                "allow_offhand": true,
+                "icon": "fish_compass",
+                "frame": 0,
+                "custom_model_data": 50000
+            },
+            {
+                "name": "simple_bait",
+                "allow_offhand": true,
+                "icon": "simple_bait",
+                "frame": 0,
+                "custom_model_data": 50001
+            },
+            {
+                "name": "magnet_bait",
+                "allow_offhand": true,
+                "icon": "magnet_bait",
+                "frame": 0,
+                "custom_model_data": 50002
+            },
+            {
+                "name": "wild_bait",
+                "allow_offhand": true,
+                "icon": "wild_bait",
+                "frame": 0,
+                "custom_model_data": 50003
+            }
+        ]
+    }
+}

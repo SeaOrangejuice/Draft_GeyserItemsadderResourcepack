@@ -1,0 +1,24 @@
+{
+    "format_version": "1.8.0",
+    "render_controllers": {
+      "controller.render.galaxy_armour": {
+        "geometry": "Geometry.default",
+        "materials": [
+          {
+            "*": "Material.default"
+          }
+        ],
+        "textures": [
+          "t.time = q.life_time * 22; return array.skins[t.time];"
+        ],
+        "arrays": {
+          "textures": {
+            "Array.skins": [
+              "Texture.p",
+              "Texture.g"
+            ]
+          }
+        }
+      }
+    }
+  }

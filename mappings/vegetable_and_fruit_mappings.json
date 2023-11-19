@@ -1,0 +1,171 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:apple": [
+            {
+                "name": "iasurvival_chili_pepper",
+                "allow_offhand": true,
+                "icon": "chili_pepper",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_banana",
+                "allow_offhand": true,
+                "icon": "banana",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_pear",
+                "allow_offhand": true,
+                "icon": "pear",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_tomato",
+                "allow_offhand": true,
+                "icon": "tomato",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_lettuce",
+                "allow_offhand": true,
+                "icon": "lettuce",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_garlic",
+                "allow_offhand": true,
+                "icon": "garlic",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "iasurvival_rice",
+                "allow_offhand": true,
+                "icon": "rice",
+                "custom_model_data": 10006
+            }
+        ],
+        "minecraft:sweet_berries": [
+            {
+                "name": "forestry_avocado",
+                "allow_offhand": true,
+                "icon": "avocado",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "forestry_banana",
+                "allow_offhand": true,
+                "icon": "banana",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "forestry_cherry",
+                "allow_offhand": true,
+                "icon": "cherry",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "forestry_rottenfruit",
+                "allow_offhand": true,
+                "icon": "rottenfruit",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "forestry_drangonfruit",
+                "allow_offhand": true,
+                "icon": "dragonfruit",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "forestry_guava",
+                "allow_offhand": true,
+                "icon": "guava",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "forestry_lemon",
+                "allow_offhand": true,
+                "icon": "lemon",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "forestry_lime",
+                "allow_offhand": true,
+                "icon": "lime",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "forestry_mango",
+                "allow_offhand": true,
+                "icon": "mango",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "forestry_maple",
+                "allow_offhand": true,
+                "icon": "maple",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "forestry_chestnut",
+                "allow_offhand": true,
+                "icon": "chestnut",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "forestry_almond",
+                "allow_offhand": true,
+                "icon": "almond",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "forestry_cashew",
+                "allow_offhand": true,
+                "icon": "cashew",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "forestry_olive",
+                "allow_offhand": true,
+                "icon": "olive",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "forestry_orange",
+                "allow_offhand": true,
+                "icon": "orange",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "forestry_coconut",
+                "allow_offhand": true,
+                "icon": "coconut",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "forestry_passionfruit",
+                "allow_offhand": true,
+                "icon": "passionfruit",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "forestry_peach",
+                "allow_offhand": true,
+                "icon": "peach",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "forestry_plum",
+                "allow_offhand": true,
+                "icon": "plum",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "forestry_prune",
+                "allow_offhand": true,
+                "icon": "prune",
+                "custom_model_data": 10019
+            }
+        ]
+    }      
+}

@@ -1,0 +1,223 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:coal": [
+            {
+                "name": "iasurvival_coal_nugget",
+                "allow_offhand": true,
+                "icon": "coal_nugget",
+                "custom_model_data": 10000
+            }
+        ],
+        "minecraft:iron_ingot": [
+            {
+                "name": "itemsadder_dark_ruby",
+                "allow_offhand": true,
+                "icon": "dark_ruby",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "sooj_resin",
+                "allow_offhand": true,
+                "icon": "sooj_resin",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "sooj_solder_mask",
+                "allow_offhand": true,
+                "icon": "sooj_solder_mask",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "sooj_resin_board",
+                "allow_offhand": true,
+                "icon": "sooj_resin_board",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "sooj_copper_foil",
+                "allow_offhand": true,
+                "icon": "sooj_copper_foil",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "sooj_netherite_foil",
+                "allow_offhand": true,
+                "icon": "sooj_netherite_foil",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "sooj_basic_board",
+                "allow_offhand": true,
+                "icon": "sooj_basic_board",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "sooj_elite_basic_board",
+                "allow_offhand": true,
+                "icon": "sooj_elite_basic_board",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "sooj_basic_circuit_board",
+                "allow_offhand": true,
+                "icon": "sooj_basic_circuit_board",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "sooj_elite_circuit_board",
+                "allow_offhand": true,
+                "icon": "sooj_elite_circuit_board",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "sooj_basic_core",
+                "allow_offhand": true,
+                "icon": "sooj_basic_core",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "sooj_advanced_core",
+                "allow_offhand": true,
+                "icon": "sooj_advanced_core",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "sooj_elite_core",
+                "allow_offhand": true,
+                "icon": "sooj_elite_core",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "sooj_ultimate_core",
+                "allow_offhand": true,
+                "icon": "sooj_ultimate_core",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "iasurvival_cassiterite",
+                "allow_offhand": true,
+                "icon": "cassiterite",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "iasurvival_spinel",
+                "allow_offhand": true,
+                "icon": "spinel",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "iasurvival_turquoise",
+                "allow_offhand": true,
+                "icon": "turquoise",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "iasurvival_aqua_aura",
+                "allow_offhand": true,
+                "icon": "aqua_aura",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "iasurvival_raw_tin",
+                "allow_offhand": true,
+                "icon": "raw_tin",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "iasurvival_end_shard",
+                "allow_offhand": true,
+                "icon": "end_shard",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "iasurvival_knowledge_fragment",
+                "allow_offhand": true,
+                "icon": "knowledge_fragment",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "iasurvival_end_crystals",
+                "allow_offhand": true,
+                "icon": "end_crystals",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "iasurvival_crystal",
+                "allow_offhand": true,
+                "icon": "crystal",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "iasurvival_ruby",
+                "allow_offhand": true,
+                "icon": "ruby",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "iasurvival_fossil",
+                "allow_offhand": true,
+                "icon": "fossil",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "iasurvival_bronze_ingot",
+                "allow_offhand": true,
+                "icon": "bronze_ingot",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "iasurvival_cassiterite_fragment",
+                "allow_offhand": true,
+                "icon": "cassiterite_fragment",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "iasurvival_end_ingot",
+                "allow_offhand": true,
+                "icon": "end_ingot",
+                "custom_model_data": 10033
+            },
+            {
+                "name": "iasurvival_dark_amethyst",
+                "allow_offhand": true,
+                "icon": "dark_amethyst",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "iasurvival_dark_amethyst_prism",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_prism",
+                "custom_model_data": 10035
+            } 
+        ],
+        "minecraft:gold_ingot": [
+            {
+                "name": "sooj_gold_foil",
+                "allow_offhand": true,
+                "icon": "sooj_gold_foil",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "sooj_advanced_basic_board",
+                "allow_offhand": true,
+                "icon": "sooj_advanced_basic_board",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "sooj_advanced_circuit_board",
+                "allow_offhand": true,
+                "icon": "sooj_advanced_circuit_board",
+                "custom_model_data": 10002
+            }
+        ],
+        "minecraft:amethyst_shard": [
+            {
+                "name": "sooj_echo_amethyst",
+                "allow_offhand": true,
+                "icon": "sooj_echo_amethyst",
+                "custom_model_data": 10000
+            }
+        ]
+    }
+}

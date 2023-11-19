@@ -1,0 +1,397 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:leather_helmet": [
+            {
+                "name": "itemsadder_dark_ruby_head",
+                "allow_offhand": true,
+                "icon": "dark_ruby_helmet",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "cosmetic_armour_galaxy_helmet",
+                "allow_offhand": true,
+                "icon": "galaxy_helmet",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "nibrock_emerald_helmet",
+                "allow_offhand": true,
+                "icon": "emerald_helmet",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_echo_amethyst_netherite_helmet",
+                "allow_offhand": true,
+                "icon": "sooj_echo_amethyst_netherite_helmet",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_bronze_helmet",
+                "allow_offhand": true,
+                "icon": "bronze_helmet",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_ruby_helmet",
+                "allow_offhand": true,
+                "icon": "ruby_helmet",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_obsidian_helmet",
+                "allow_offhand": true,
+                "icon": "obsidian_helmet",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_dark_amethyst_helmet",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_helmet",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iridium_helmet",
+                "allow_offhand": true,
+                "icon": "iridium_helmet",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "malachite_helmet",
+                "allow_offhand": true,
+                "icon": "malachite_helmet",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "amber_helmet",
+                "allow_offhand": true,
+                "icon": "amber_helmet",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "amethyst_helmet",
+                "allow_offhand": true,
+                "icon": "amethyst_helmet",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "mythril_helmet",
+                "allow_offhand": true,
+                "icon": "mythril_helmet",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "silver_helmet",
+                "allow_offhand": true,
+                "icon": "silver_helmet",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "jade_helmet",
+                "allow_offhand": true,
+                "icon": "jade_helmet",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "ruby_helmet",
+                "allow_offhand": true,
+                "icon": "more_ruby_helmet",
+                "custom_model_data": 10019
+            }
+        ],
+        "minecraft:leather_chestplate": [
+            {
+                "name": "itemsadder_dark_ruby_chest",
+                "allow_offhand": true,
+                "icon": "dark_ruby_chestplate",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "cosmetic_armour_galaxy_chestplate",
+                "allow_offhand": true,
+                "icon": "galaxy_chestplate",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "nibrock_emerald_chestplate",
+                "allow_offhand": true,
+                "icon": "emerald_chestplate",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_echo_amethyst_netherite_chestplate",
+                "allow_offhand": true,
+                "icon": "sooj_echo_amethyst_netherite_chestplate",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_bronze_chestplate",
+                "allow_offhand": true,
+                "icon": "bronze_chestplate",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_ruby_chestplate",
+                "allow_offhand": true,
+                "icon": "ruby_chestplate",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_obsidian_chestplate",
+                "allow_offhand": true,
+                "icon": "obsidian_chestplate",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_dark_amethyst_chestplate",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_chestplate",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iridium_chestplate",
+                "allow_offhand": true,
+                "icon": "iridium_chestplate",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "malachite_chestplate",
+                "allow_offhand": true,
+                "icon": "malachite_chestplate",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "amber_chestplate",
+                "allow_offhand": true,
+                "icon": "amber_chestplate",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "amethyst_chestplate",
+                "allow_offhand": true,
+                "icon": "amethyst_chestplate",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "mythril_chestplate",
+                "allow_offhand": true,
+                "icon": "mythril_chestplate",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "silver_chestplate",
+                "allow_offhand": true,
+                "icon": "silver_chestplate",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "jade_chestplate",
+                "allow_offhand": true,
+                "icon": "jade_chestplate",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "ruby_chestplate",
+                "allow_offhand": true,
+                "icon": "more_ruby_chestplate",
+                "custom_model_data": 10019
+            }
+        ],
+        "minecraft:leather_leggings": [
+            {
+                "name": "itemsadder_dark_ruby_legs",
+                "allow_offhand": true,
+                "icon": "dark_ruby_leggings",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "cosmetic_armour_galaxy_leggings",
+                "allow_offhand": true,
+                "icon": "galaxy_leggings",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "nibrock_emerald_leggings",
+                "allow_offhand": true,
+                "icon": "emerald_leggings",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_echo_amethyst_netherite_leggings",
+                "allow_offhand": true,
+                "icon": "sooj_echo_amethyst_netherite_leggings",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_bronze_leggings",
+                "allow_offhand": true,
+                "icon": "bronze_leggings",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_ruby_leggings",
+                "allow_offhand": true,
+                "icon": "ruby_leggings",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_obsidian_leggings",
+                "allow_offhand": true,
+                "icon": "obsidian_leggings",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_dark_amethyst_leggings",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_leggings",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iridium_leggings",
+                "allow_offhand": true,
+                "icon": "iridium_leggings",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "malachite_leggings",
+                "allow_offhand": true,
+                "icon": "malachite_leggings",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "amber_leggings",
+                "allow_offhand": true,
+                "icon": "amber_leggings",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "amethyst_leggings",
+                "allow_offhand": true,
+                "icon": "amethyst_leggings",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "mythril_leggings",
+                "allow_offhand": true,
+                "icon": "mythril_leggings",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "silver_leggings",
+                "allow_offhand": true,
+                "icon": "silver_leggings",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "jade_leggings",
+                "allow_offhand": true,
+                "icon": "jade_leggings",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "ruby_leggings",
+                "allow_offhand": true,
+                "icon": "more_ruby_leggings",
+                "custom_model_data": 10019
+            }
+        ],
+        "minecraft:leather_boots": [
+            {
+                "name": "itemsadder_dark_ruby_boots",
+                "allow_offhand": true,
+                "icon": "dark_ruby_boots",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "cosmetic_armour_galaxy_boots",
+                "allow_offhand": true,
+                "icon": "galaxy_boots",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "nibrock_emerald_boots",
+                "allow_offhand": true,
+                "icon": "emerald_boots",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_echo_amethyst_netherite_boots",
+                "allow_offhand": true,
+                "icon": "sooj_echo_amethyst_netherite_boots",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "iasurvival_bronze_boots",
+                "allow_offhand": true,
+                "icon": "bronze_boots",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iasurvival_ruby_boots",
+                "allow_offhand": true,
+                "icon": "ruby_boots",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "iasurvival_obsidian_boots",
+                "allow_offhand": true,
+                "icon": "obsidian_boots",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "iasurvival_dark_amethyst_boots",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_boots",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "iridium_boots",
+                "allow_offhand": true,
+                "icon": "iridium_boots",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "malachite_boots",
+                "allow_offhand": true,
+                "icon": "malachite_boots",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "amber_boots",
+                "allow_offhand": true,
+                "icon": "amber_boots",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "amethyst_boots",
+                "allow_offhand": true,
+                "icon": "amethyst_boots",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "mythril_boots",
+                "allow_offhand": true,
+                "icon": "mythril_boots",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "silver_boots",
+                "allow_offhand": true,
+                "icon": "silver_boots",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "jade_boots",
+                "allow_offhand": true,
+                "icon": "jade_boots",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "ruby_boots",
+                "allow_offhand": true,
+                "icon": "more_ruby_boots",
+                "custom_model_data": 10018
+            }
+        ]
+    }
+}

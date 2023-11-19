@@ -1,0 +1,443 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:oak_leaves": [
+            {
+                "name": "forestry_avocado_tree_leaves",
+                "allow_offhand": true,
+                "icon": "avocado_leaves",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "forestry_banana_tree_leaves",
+                "allow_offhand": true,
+                "icon": "banana_leaves",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "forestry_cherry_tree_leaves",
+                "allow_offhand": true,
+                "icon": "cherry_leaves",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "forestry_decaying_tree_leaves",
+                "allow_offhand": true,
+                "icon": "decaying_leaves",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "forestry_dragonfruit_tree_leaves",
+                "allow_offhand": true,
+                "icon": "dragonfruit_leaves",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "forestry_guava_tree_leaves",
+                "allow_offhand": true,
+                "icon": "guava_leaves",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "forestry_lemon_tree_leaves",
+                "allow_offhand": true,
+                "icon": "lemon_leaves",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "forestry_lime_tree_leaves",
+                "allow_offhand": true,
+                "icon": "lime_leaves",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "forestry_mango_tree_leaves",
+                "allow_offhand": true,
+                "icon": "mango_leaves",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "forestry_maple_tree_leaves",
+                "allow_offhand": true,
+                "icon": "maple_leaves",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "forestry_nut_tree_leaves",
+                "allow_offhand": true,
+                "icon": "nut_leaves",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "forestry_olive_tree_leaves",
+                "allow_offhand": true,
+                "icon": "olive_leaves",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "forestry_orange_tree_leaves",
+                "allow_offhand": true,
+                "icon": "orange_leaves",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "forestry_palm",
+                "allow_offhand": true,
+                "icon": "palm_leaves",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "forestry_passionfruit_tree_leaves",
+                "allow_offhand": true,
+                "icon": "passionfruit_leaves",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "forestry_peach_tree_leaves",
+                "allow_offhand": true,
+                "icon": "peach_leaves",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "forestry_plum_tree_leaves",
+                "allow_offhand": true,
+                "icon": "plum_leaves",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "forestry_prune_tree_leaves",
+                "allow_offhand": true,
+                "icon": "prune_leaves",
+                "custom_model_data": 10017
+            }
+        ],
+        "minecraft:oak_planks": [
+            {
+                "name": "forestry_avocado_planks",
+                "allow_offhand": true,
+                "icon": "avocado_planks",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "forestry_banana_planks",
+                "allow_offhand": true,
+                "icon": "banana_planks",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "forestry_cherry_planks",
+                "allow_offhand": true,
+                "icon": "cherry_planks",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "forestry_decaying_planks",
+                "allow_offhand": true,
+                "icon": "decaying_planks",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "forestry_dragonfruit_planks",
+                "allow_offhand": true,
+                "icon": "dragonfruit_planks",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "forestry_guava_planks",
+                "allow_offhand": true,
+                "icon": "guava_planks",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "forestry_lemon_planks",
+                "allow_offhand": true,
+                "icon": "lemon_planks",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "forestry_lime_planks",
+                "allow_offhand": true,
+                "icon": "lime_planks",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "forestry_mango_planks",
+                "allow_offhand": true,
+                "icon": "mango_planks",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "forestry_maple_planks",
+                "allow_offhand": true,
+                "icon": "maple_planks",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "forestry_nut_planks",
+                "allow_offhand": true,
+                "icon": "nut_planks",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "forestry_olive_planks",
+                "allow_offhand": true,
+                "icon": "olive_planks",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "forestry_orange_planks",
+                "allow_offhand": true,
+                "icon": "orange_planks",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "forestry_palm_planks",
+                "allow_offhand": true,
+                "icon": "palm_planks",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "forestry_passionfruit_planks",
+                "allow_offhand": true,
+                "icon": "passionfruit_planks",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "forestry_peach_planks",
+                "allow_offhand": true,
+                "icon": "peach_planks",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "forestry_plum_planks",
+                "allow_offhand": true,
+                "icon": "plum_planks",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "forestry_prune_planks",
+                "allow_offhand": true,
+                "icon": "prune_planks",
+                "custom_model_data": 10017
+            }
+        ],
+        "minecraft:oak_log": [
+            {
+                "name": "forestry_avocado_tree_log",
+                "allow_offhand": true,
+                "icon": "avocado_log",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "forestry_avocado_stripped_log",
+                "allow_offhand": true,
+                "icon": "avocado_stripped_log",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "forestry_banana_tree_log",
+                "allow_offhand": true,
+                "icon": "banana_log",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "forestry_cherry_tree_log",
+                "allow_offhand": true,
+                "icon": "cherry_log",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "forestry_decaying_tree_log",
+                "allow_offhand": true,
+                "icon": "decaying_log",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "forestry_dragonfruit_tree_log",
+                "allow_offhand": true,
+                "icon": "dragonfruit_log",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "forestry_guava_tree_log",
+                "allow_offhand": true,
+                "icon": "guava_log",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "forestry_lemon_tree_log",
+                "allow_offhand": true,
+                "icon": "lemon_log",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "forestry_lime_tree_log",
+                "allow_offhand": true,
+                "icon": "lime_log",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "forestry_mango_tree_log",
+                "allow_offhand": true,
+                "icon": "mango_log",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "forestry_maple_tree_log",
+                "allow_offhand": true,
+                "icon": "maple_log",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "forestry_nut_tree_log",
+                "allow_offhand": true,
+                "icon": "nut_log",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "forestry_olive_tree_log",
+                "allow_offhand": true,
+                "icon": "olive_log",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "forestry_orange_tree_log",
+                "allow_offhand": true,
+                "icon": "orange_log",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "forestry_palm_tree_log",
+                "allow_offhand": true,
+                "icon": "palm_log",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "forestry_passionfruit_tree_log",
+                "allow_offhand": true,
+                "icon": "passionfruit_log",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "forestry_peach_tree_log",
+                "allow_offhand": true,
+                "icon": "peach_log",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "forestry_plum_tree_log",
+                "allow_offhand": true,
+                "icon": "plum_log",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "forestry_prune_tree_log",
+                "allow_offhand": true,
+                "icon": "prune_log",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "forestry_banana_stripped_log",
+                "allow_offhand": true,
+                "icon": "banana_stripped_log",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "forestry_cherry_stripped_log",
+                "allow_offhand": true,
+                "icon": "cherry_stripped_log",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "forestry_decaying_stripped_log",
+                "allow_offhand": true,
+                "icon": "decaying_stripped_log",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "forestry_dragonfruit_stripped_log",
+                "allow_offhand": true,
+                "icon": "dragonfruit_stripped_log",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "forestry_guava_stripped_log",
+                "allow_offhand": true,
+                "icon": "guava_stripped_log",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "forestry_lemon_stripped_log",
+                "allow_offhand": true,
+                "icon": "lemon_stripped_log",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "forestry_lime_stripped_log",
+                "allow_offhand": true,
+                "icon": "lime_stripped_log",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "forestry_mango_stripped_log",
+                "allow_offhand": true,
+                "icon": "mango_stripped_log",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "forestry_maple_stripped_log",
+                "allow_offhand": true,
+                "icon": "maple_stripped_log",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "forestry_nut_stripped_log",
+                "allow_offhand": true,
+                "icon": "nut_stripped_log",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "forestry_olive_stripped_log",
+                "allow_offhand": true,
+                "icon": "olive_stripped_log",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "forestry_orange_stripped_log",
+                "allow_offhand": true,
+                "icon": "orange_stripped_log",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "forestry_palm_stripped_log",
+                "allow_offhand": true,
+                "icon": "palm_stripped_log",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "forestry_passionfruit_stripped_log",
+                "allow_offhand": true,
+                "icon": "passionfruit_stripped_log",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "forestry_peach_stripped_log",
+                "allow_offhand": true,
+                "icon": "peach_stripped_log",
+                "custom_model_data": 10033
+            },
+            {
+                "name": "forestry_plum_stripped_log",
+                "allow_offhand": true,
+                "icon": "plum_stripped_log",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "forestry_prune_stripped_log",
+                "allow_offhand": true,
+                "icon": "prune_stripped_log",
+                "custom_model_data": 10035
+            }
+        ]
+    }
+}

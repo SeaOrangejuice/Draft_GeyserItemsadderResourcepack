@@ -1,0 +1,632 @@
+{
+  "resource_pack_name": "soojcraft_pack",
+  "num_mip_levels": 4,
+  "padding": 8,
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+    "customization_table_up": {
+      "textures": "textures/blocks/machinery/customization_table_up"
+    },
+    "customization_table_side": {
+      "textures": "textures/blocks/machinery/customization_table_side"
+    },
+    "customization_table_down": {
+      "textures": "textures/blocks/machinery/customization_table_down"
+    },
+    "restoration_table_up": {
+      "textures": "textures/blocks/machinery/restoration_table_up"
+    },
+    "restoration_table_side": {
+      "textures": "textures/blocks/machinery/restoration_table_side"
+    },
+    "restoration_table_down": {
+      "textures": "textures/blocks/machinery/restoration_table_down"
+    },
+    "patterened_floor": {
+      "textures": "textures/blocks/chinese_new_year/patterened_floor"
+    },
+    "patterened_floor_2": {
+      "textures": "textures/blocks/chinese_new_year/patterened_floor_2"
+    },
+    "patterened_pillar_top": {
+      "textures": "textures/blocks/chinese_new_year/patterened_pillar_top"
+    },
+    "patterened_pillar_side": {
+      "textures": "textures/blocks/chinese_new_year/patterened_pillar_side"
+    },
+    "aqua_aura_ore": {
+      "textures": "textures/blocks/ores/aqua_aura_ore"
+    },
+    "blaze_powder_ore": {
+      "textures": "textures/blocks/ores/blaze_powder_ore"
+    },
+    "cassiterite_ore": {
+      "textures": "textures/blocks/ores/cassiterite_ore"
+    },
+    "coal_dirt_ore": {
+      "textures": "textures/blocks/ores/coal_dirt_ore"
+    },
+    "dark_amethyst_ore": {
+      "textures": "textures/blocks/ores/dark_amethyst_ore"
+    },
+    "end_ore": {
+      "textures": "textures/blocks/ores/end_ore"
+    },
+    "forgotten_crying_obsidian": {
+      "textures": "textures/blocks/ores/forgotten_crying_obsidian"
+    },
+    "gold_dirt_ore": {
+      "textures": "textures/blocks/ores/gold_dirt_ore"
+    },
+    "iron_dirt_ore": {
+      "textures": "textures/blocks/ores/iron_dirt_ore"
+    },
+    "ruby_ore": {
+      "textures": "textures/blocks/ores/ruby_ore"
+    },
+    "spinel_ore": {
+      "textures": "textures/blocks/ores/spinel_ore"
+    },
+    "turquoise_ore": {
+      "textures": "textures/blocks/ores/turquoise_ore"
+    },
+    "aqua_aura_block": {
+      "textures": "textures/blocks/minerals/aqua_aura_block"
+    },
+    "cassiterite_block": {
+      "textures": "textures/blocks/minerals/cassiterite_block"
+    },
+    "crystal_block": {
+      "textures": "textures/blocks/minerals/crystal_block"
+    },
+    "dark_amethyst_block": {
+      "textures": "textures/blocks/minerals/dark_amethyst_block"
+    },
+    "dark_amethyst_prism_block": {
+      "textures": "textures/blocks/minerals/dark_amethyst_prism_block"
+    },
+    "ruby_block": {
+      "textures": "textures/blocks/minerals/ruby_block"
+    },
+    "spinel_block": {
+      "textures": "textures/blocks/minerals/spinel_block"
+    },
+    "turquoise_block": {
+      "textures": "textures/blocks/minerals/turquoise_block"
+    },
+    "avocado_leaves": {
+      "textures": "textures/blocks/trees/avocado/leaves"
+    },
+    "avocado_log_top": {
+      "textures": "textures/blocks/trees/avocado/log_top"
+    },
+    "avocado_log_down": {
+      "textures": "textures/blocks/trees/avocado/log_down"
+    },
+    "avocado_stripped_log_top": {
+      "textures": "textures/blocks/trees/avocado/stripped_log_top"
+    },
+    "avocado_stripped_log_down": {
+      "textures": "textures/blocks/trees/avocado/stripped_log_down"
+    },
+    "avocado_planks": {
+      "textures": "textures/blocks/trees/avocado/planks"
+    },
+    "banana_leaves": {
+      "textures": "textures/blocks/trees/banana/leaves"
+    },
+    "banana_log_top": {
+      "textures": "textures/blocks/trees/banana/log_top"
+    },
+    "banana_log_down": {
+      "textures": "textures/blocks/trees/banana/log_down"
+    },
+    "banana_stripped_log_top": {
+      "textures": "textures/blocks/trees/banana/stripped_log_top"
+    },
+    "banana_stripped_log_down": {
+      "textures": "textures/blocks/trees/banana/stripped_log_down"
+    },
+    "banana_planks": {
+      "textures": "textures/blocks/trees/banana/planks"
+    },
+    "cherry_leaves": {
+      "textures": "textures/blocks/trees/cherry/leaves"
+    },
+    "cherry_log_top": {
+      "textures": "textures/blocks/trees/cherry/log_top"
+    },
+    "cherry_log_down": {
+      "textures": "textures/blocks/trees/cherry/log_down"
+    },
+    "cherry_stripped_log_top": {
+      "textures": "textures/blocks/trees/cherry/stripped_log_top"
+    },
+    "cherry_stripped_log_down": {
+      "textures": "textures/blocks/trees/cherry/stripped_log_down"
+    },
+    "cherry_planks": {
+      "textures": "textures/blocks/trees/cherry/planks"
+    },
+    "decaying_leaves": {
+      "textures": "textures/blocks/trees/decaying/leaves"
+    },
+    "decaying_log_top": {
+      "textures": "textures/blocks/trees/decaying/log_top"
+    },
+    "decaying_log_down": {
+      "textures": "textures/blocks/trees/decaying/log_down"
+    },
+    "decaying_stripped_log_top": {
+      "textures": "textures/blocks/trees/decaying/stripped_log_top"
+    },
+    "decaying_stripped_log_down": {
+      "textures": "textures/blocks/trees/decaying/stripped_log_down"
+    },
+    "decaying_planks": {
+      "textures": "textures/blocks/trees/decaying/planks"
+    },
+    "dragonfruit_leaves": {
+      "textures": "textures/blocks/trees/dragonfruit/leaves"
+    },
+    "dragonfruit_log_top": {
+      "textures": "textures/blocks/trees/dragonfruit/log_top"
+    },
+    "dragonfruit_log_down": {
+      "textures": "textures/blocks/trees/dragonfruit/log_down"
+    },
+    "dragonfruit_stripped_log_top": {
+      "textures": "textures/blocks/trees/dragonfruit/stripped_log_top"
+    },
+    "dragonfruit_stripped_log_down": {
+      "textures": "textures/blocks/trees/dragonfruit/stripped_log_down"
+    },
+    "dragonfruit_planks": {
+      "textures": "textures/blocks/trees/dragonfruit/planks"
+    },
+    "guava_leaves": {
+      "textures": "textures/blocks/trees/guava/leaves"
+    },
+    "guava_log_top": {
+      "textures": "textures/blocks/trees/guava/log_top"
+    },
+    "guava_log_down": {
+      "textures": "textures/blocks/trees/guava/log_down"
+    },
+    "guava_stripped_log_top": {
+      "textures": "textures/blocks/trees/guava/stripped_log_top"
+    },
+    "guava_stripped_log_down": {
+      "textures": "textures/blocks/trees/guava/stripped_log_down"
+    },
+    "guava_planks": {
+      "textures": "textures/blocks/trees/guava/planks"
+    },
+    "lemon_leaves": {
+      "textures": "textures/blocks/trees/lemon/leaves"
+    },
+    "lemon_log_top": {
+      "textures": "textures/blocks/trees/lemon/log_top"
+    },
+    "lemon_log_down": {
+      "textures": "textures/blocks/trees/lemon/log_down"
+    },
+    "lemon_stripped_log_top": {
+      "textures": "textures/blocks/trees/lemon/stripped_log_top"
+    },
+    "lemon_stripped_log_down": {
+      "textures": "textures/blocks/trees/lemon/stripped_log_down"
+    },
+    "lemon_planks": {
+      "textures": "textures/blocks/trees/lemon/planks"
+    },
+    "lime_leaves": {
+      "textures": "textures/blocks/trees/lime/leaves"
+    },
+    "lime_log_top": {
+      "textures": "textures/blocks/trees/lime/log_top"
+    },
+    "lime_log_down": {
+      "textures": "textures/blocks/trees/lime/log_down"
+    },
+    "lime_stripped_log_top": {
+      "textures": "textures/blocks/trees/lime/stripped_log_top"
+    },
+    "lime_stripped_log_down": {
+      "textures": "textures/blocks/trees/lime/stripped_log_down"
+    },
+    "lime_planks": {
+      "textures": "textures/blocks/trees/lime/planks"
+    },
+    "mango_leaves": {
+      "textures": "textures/blocks/trees/mango/leaves"
+    },
+    "mango_log_top": {
+      "textures": "textures/blocks/trees/mango/log_top"
+    },
+    "mango_log_down": {
+      "textures": "textures/blocks/trees/mango/log_down"
+    },
+    "mango_stripped_log_top": {
+      "textures": "textures/blocks/trees/mango/stripped_log_top"
+    },
+    "mango_stripped_log_down": {
+      "textures": "textures/blocks/trees/mango/stripped_log_down"
+    },
+    "mango_planks": {
+      "textures": "textures/blocks/trees/mango/planks"
+    },
+    "maple_leaves": {
+      "textures": "textures/blocks/trees/maple/leaves"
+    },
+    "maple_log_top": {
+      "textures": "textures/blocks/trees/maple/log_top"
+    },
+    "maple_log_down": {
+      "textures": "textures/blocks/trees/maple/log_down"
+    },
+    "maple_stripped_log_top": {
+      "textures": "textures/blocks/trees/maple/stripped_log_top"
+    },
+    "maple_stripped_log_down": {
+      "textures": "textures/blocks/trees/maple/stripped_log_down"
+    },
+    "maple_planks": {
+      "textures": "textures/blocks/trees/maple/planks"
+    },
+    "nut_leaves": {
+      "textures": "textures/blocks/trees/nut/leaves"
+    },
+    "nut_log_top": {
+      "textures": "textures/blocks/trees/nut/log_top"
+    },
+    "nut_log_down": {
+      "textures": "textures/blocks/trees/nut/log_down"
+    },
+    "nut_stripped_log_top": {
+      "textures": "textures/blocks/trees/nut/stripped_log_top"
+    },
+    "nut_stripped_log_down": {
+      "textures": "textures/blocks/trees/nut/stripped_log_down"
+    },
+    "nut_planks": {
+      "textures": "textures/blocks/trees/nut/planks"
+    },
+    "olive_leaves": {
+      "textures": "textures/blocks/trees/olive/leaves"
+    },
+    "olive_log_top": {
+      "textures": "textures/blocks/trees/olive/log_top"
+    },
+    "olive_log_down": {
+      "textures": "textures/blocks/trees/olive/log_down"
+    },
+    "olive_stripped_log_top": {
+      "textures": "textures/blocks/trees/olive/stripped_log_top"
+    },
+    "olive_stripped_log_down": {
+      "textures": "textures/blocks/trees/olive/stripped_log_down"
+    },
+    "olive_planks": {
+      "textures": "textures/blocks/trees/olive/planks"
+    },
+    "orange_leaves": {
+      "textures": "textures/blocks/trees/orange/leaves"
+    },
+    "orange_log_top": {
+      "textures": "textures/blocks/trees/orange/log_top"
+    },
+    "orange_log_down": {
+      "textures": "textures/blocks/trees/orange/log_down"
+    },
+    "orange_stripped_log_top": {
+      "textures": "textures/blocks/trees/orange/stripped_log_top"
+    },
+    "orange_stripped_log_down": {
+      "textures": "textures/blocks/trees/orange/stripped_log_down"
+    },
+    "orange_planks": {
+      "textures": "textures/blocks/trees/orange/planks"
+    },
+    "palm_leaves": {
+      "textures": "textures/blocks/trees/palm/leaves"
+    },
+    "palm_log_top": {
+      "textures": "textures/blocks/trees/palm/log_top"
+    },
+    "palm_log_down": {
+      "textures": "textures/blocks/trees/palm/log_down"
+    },
+    "palm_stripped_log_top": {
+      "textures": "textures/blocks/trees/palm/stripped_log_top"
+    },
+    "palm_stripped_log_down": {
+      "textures": "textures/blocks/trees/palm/stripped_log_down"
+    },
+    "palm_planks": {
+      "textures": "textures/blocks/trees/palm/planks"
+    },
+    "passionfruit_leaves": {
+      "textures": "textures/blocks/trees/passionfruit/leaves"
+    },
+    "passionfruit_log_top": {
+      "textures": "textures/blocks/trees/passionfruit/log_top"
+    },
+    "passionfruit_log_down": {
+      "textures": "textures/blocks/trees/passionfruit/log_down"
+    },
+    "passionfruit_stripped_log_top": {
+      "textures": "textures/blocks/trees/passionfruit/stripped_log_top"
+    },
+    "passionfruit_stripped_log_down": {
+      "textures": "textures/blocks/trees/passionfruit/stripped_log_down"
+    },
+    "passionfruit_planks": {
+      "textures": "textures/blocks/trees/passionfruit/planks"
+    },
+    "peach_leaves": {
+      "textures": "textures/blocks/trees/peach/leaves"
+    },
+    "peach_log_top": {
+      "textures": "textures/blocks/trees/peach/log_top"
+    },
+    "peach_log_down": {
+      "textures": "textures/blocks/trees/peach/log_down"
+    },
+    "peach_stripped_log_top": {
+      "textures": "textures/blocks/trees/peach/stripped_log_top"
+    },
+    "peach_stripped_log_down": {
+      "textures": "textures/blocks/trees/peach/stripped_log_down"
+    },
+    "peach_planks": {
+      "textures": "textures/blocks/trees/peach/planks"
+    },
+    "plum_leaves": {
+      "textures": "textures/blocks/trees/plum/leaves"
+    },
+    "plum_log_top": {
+      "textures": "textures/blocks/trees/plum/log_top"
+    },
+    "plum_log_down": {
+      "textures": "textures/blocks/trees/plum/log_down"
+    },
+    "plum_stripped_log_top": {
+      "textures": "textures/blocks/trees/plum/stripped_log_top"
+    },
+    "plum_stripped_log_down": {
+      "textures": "textures/blocks/trees/plum/stripped_log_down"
+    },
+    "plum_planks": {
+      "textures": "textures/blocks/trees/plum/planks"
+    },
+    "prune_leaves": {
+      "textures": "textures/blocks/trees/prune/leaves"
+    },
+    "prune_log_top": {
+      "textures": "textures/blocks/trees/prune/log_top"
+    },
+    "prune_log_down": {
+      "textures": "textures/blocks/trees/prune/log_down"
+    },
+    "prune_stripped_log_top": {
+      "textures": "textures/blocks/trees/prune/stripped_log_top"
+    },
+    "prune_stripped_log_down": {
+      "textures": "textures/blocks/trees/prune/stripped_log_down"
+    },
+    "prune_planks": {
+      "textures": "textures/blocks/trees/prune/planks"
+    },
+    "modern_quartz": {
+      "textures": "textures/blocks/decorative/modern_quartz"
+    },
+    "modern_sandstone": {
+      "textures": "textures/blocks/decorative/modern_sandstone"
+    },
+    "modern_stone": {
+      "textures": "textures/blocks/decorative/modern_stone"
+    },
+    "nice_stone": {
+      "textures": "textures/blocks/decorative/nice_stone"
+    },
+    "nice_wood": {
+      "textures": "textures/blocks/decorative/nice_wood"
+    },
+    "andesite_cut": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut"
+    },
+    "andesite_cut_basketweave": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_basketweave"
+    },
+    "andesite_cut_bond": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_bond"
+    },
+    "andesite_cut_brick": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_brick"
+    },
+    "andesite_cut_herring": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_herring"
+    },
+    "andesite_cut_pillar_cap": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_cap"
+    },
+    "andesite_cut_pillar_side": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_pillar_side"
+    },
+    "andesite_cut_pillar_side_rotated": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_pillar_side_rotated"
+    },
+    "andesite_cut_polished": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_polished"
+    },
+    "andesite_cut_slab_side": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_slab_side"
+    },
+    "andesite_cut_square": {
+      "textures": "textures/blocks/andesite_cut/andesite_cut_square"
+    },
+    "diorite_cut": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut"
+    },
+    "diorite_cut_basketweave": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_basketweave"
+    },
+    "diorite_cut_bond": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_bond"
+    },
+    "diorite_cut_brick": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_brick"
+    },
+    "diorite_cut_herring": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_herring"
+    },
+    "diorite_cut_pillar_cap": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_cap"
+    },
+    "diorite_cut_pillar_side": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_pillar_side"
+    },
+    "diorite_cut_pillar_side_rotated": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_pillar_side_rotated"
+    },
+    "diorite_cut_polished": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_polished"
+    },
+    "diorite_cut_slab_side": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_slab_side"
+    },
+    "diorite_cut_square": {
+      "textures": "textures/blocks/diorite_cut/diorite_cut_square"
+    },
+    "granite_cut": {
+      "textures": "textures/blocks/granite_cut/granite_cut"
+    },
+    "granite_cut_basketweave": {
+      "textures": "textures/blocks/granite_cut/granite_cut_basketweave"
+    },
+    "granite_cut_bond": {
+      "textures": "textures/blocks/granite_cut/granite_cut_bond"
+    },
+    "granite_cut_brick": {
+      "textures": "textures/blocks/granite_cut/granite_cut_brick"
+    },
+    "granite_cut_herring": {
+      "textures": "textures/blocks/granite_cut/granite_cut_herring"
+    },
+    "granite_cut_pillar_cap": {
+      "textures": "textures/blocks/granite_cut/granite_cut_cap"
+    },
+    "granite_cut_pillar_side": {
+      "textures": "textures/blocks/granite_cut/granite_cut_pillar_side"
+    },
+    "granite_cut_pillar_side_rotated": {
+      "textures": "textures/blocks/granite_cut/granite_cut_pillar_side_rotated"
+    },
+    "granite_cut_polished": {
+      "textures": "textures/blocks/granite_cut/granite_cut_polished"
+    },
+    "granite_cut_slab_side": {
+      "textures": "textures/blocks/granite_cut/granite_cut_slab_side"
+    },
+    "granite_cut_square": {
+      "textures": "textures/blocks/granite_cut/granite_cut_square"
+    },
+    "amber_ore": {
+      "textures": "textures/blocks/ores/more/amber_ore"
+    },
+    "amethyst_ore": {
+      "textures": "textures/blocks/ores/more/amethyst_ore"
+    },
+    "deepslate_amber_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_amber_ore"
+    },
+    "deepslate_amethyst_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_amethyst_ore"
+    },
+    "deepslate_iridium_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_iridium_ore"
+    },
+    "deepslate_jade_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_jade_ore"
+    },
+    "deepslate_malachite_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_malachite_ore"
+    },
+    "deepslate_mythril_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_mythril_ore"
+    },
+    "deepslate_ruby_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_ruby_ore"
+    },
+    "deepslate_silver_ore": {
+      "textures": "textures/blocks/ores/more/deepslate_silver_ore"
+    },
+    "iridium_ore": {
+      "textures": "textures/blocks/ores/more/iridium_ore"
+    },
+    "jade_ore": {
+      "textures": "textures/blocks/ores/more/jade_ore"
+    },
+    "malachite_ore": {
+      "textures": "textures/blocks/ores/more/malachite_ore"
+    },
+    "mythril_ore": {
+      "textures": "textures/blocks/ores/more/mythril_ore"
+    },
+    "more_ruby_ore": {
+      "textures": "textures/blocks/ores/more/ruby_ore"
+    },
+    "silver_ore": {
+      "textures": "textures/blocks/ores/more/silver_ore"
+    },
+    "amber_block": {
+      "textures": "textures/blocks/minerals/more/amber_block"
+    },
+    "more_amethyst_block": {
+      "textures": "textures/blocks/minerals/more/amethyst_block"
+    },
+    "iridium_block": {
+      "textures": "textures/blocks/minerals/more/iridium_block"
+    },
+    "jade_block": {
+      "textures": "textures/blocks/minerals/more/jade_block"
+    },
+    "malachite_block": {
+      "textures": "textures/blocks/minerals/more/malachite_block"
+    },
+    "mythril_block": {
+      "textures": "textures/blocks/minerals/more/mythril_block"
+    },
+    "raw_amber_block": {
+      "textures": "textures/blocks/minerals/more/raw_amber_block"
+    },
+    "raw_amethyst_block": {
+      "textures": "textures/blocks/minerals/more/raw_amethyst_block"
+    },
+    "raw_iridium_block": {
+      "textures": "textures/blocks/minerals/more/raw_iridium_block"
+    },
+    "raw_jade_block": {
+      "textures": "textures/blocks/minerals/more/raw_jade_block"
+    },
+    "raw_malachite_block": {
+      "textures": "textures/blocks/minerals/more/raw_malachite_block"
+    },
+    "raw_mythril_block": {
+      "textures": "textures/blocks/minerals/more/raw_mythril_block"
+    },
+    "raw_ruby_block": {
+      "textures": "textures/blocks/minerals/more/raw_ruby_block"
+    },
+    "raw_silver_block": {
+      "textures": "textures/blocks/minerals/more/raw_silver_block"
+    },
+    "more_ruby_block": {
+      "textures": "textures/blocks/minerals/more/ruby_block"
+    },
+    "silver_block": {
+      "textures": "textures/blocks/minerals/more/silver_block"
+    }
+  }
+}

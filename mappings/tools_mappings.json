@@ -1,0 +1,470 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:iron_pickaxe": [
+            {
+                "name": "copperitems_copperpickaxe",
+                "allow_offhand": true,
+                "icon": "copperpickaxe",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_ruby_pickaxe",
+                "allow_offhand": true,
+                "icon": "ruby_pickaxe",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "sooj_hammer",
+                "allow_offhand": true,
+                "icon": "sooj_hammer",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "sooj_diamond_hammer",
+                "allow_offhand": true,
+                "icon": "sooj_diamond_hammer",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "sooj_cut_scissors",
+                "allow_offhand": true,
+                "icon": "sooj_cut_scissors",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_diamond_cut_scissors",
+                "allow_offhand": true,
+                "icon": "sooj_diamond_cut_scissors",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "sooj_wooden_faucet",
+                "allow_offhand": true,
+                "icon": "sooj_wooden_faucet",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "iridium_pickaxe",
+                "allow_offhand": true,
+                "icon": "iridium_pickaxe",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "malachite_pickaxe",
+                "allow_offhand": true,
+                "icon": "malachite_pickaxe",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "amber_pickaxe",
+                "allow_offhand": true,
+                "icon": "amber_pickaxe",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "amethyst_pickaxe",
+                "allow_offhand": true,
+                "icon": "amethyst_pickaxe",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "mythril_pickaxe",
+                "allow_offhand": true,
+                "icon": "mythril_pickaxe",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "silver_pickaxe",
+                "allow_offhand": true,
+                "icon": "silver_pickaxe",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "jade_pickaxe",
+                "allow_offhand": true,
+                "icon": "jade_pickaxe",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "ruby_pickaxe",
+                "allow_offhand": true,
+                "icon": "more_ruby_pickaxe",
+                "custom_model_data": 10015
+            }
+        ],
+        "minecraft:iron_axe": [
+            {
+                "name": "copperitems_copperaxe",
+                "allow_offhand": true,
+                "icon": "copperaxe",
+                "custom_model_data": 10001  
+            },
+            {
+                "name": "iridium_axe",
+                "allow_offhand": true,
+                "icon": "iridium_axe",
+                "custom_model_data": 10002  
+            },
+            {
+                "name": "malachite_axe",
+                "allow_offhand": true,
+                "icon": "malachite_axe",
+                "custom_model_data": 10003  
+            },
+            {
+                "name": "amber_axe",
+                "allow_offhand": true,
+                "icon": "amber_axe",
+                "custom_model_data": 10004  
+            },
+            {
+                "name": "amethyst_axe",
+                "allow_offhand": true,
+                "icon": "amethyst_axe",
+                "custom_model_data": 10005  
+            },
+            {
+                "name": "mythril_axe",
+                "allow_offhand": true,
+                "icon": "mythril_axe",
+                "custom_model_data": 10006  
+            },
+            {
+                "name": "silver_axe",
+                "allow_offhand": true,
+                "icon": "silver_axe",
+                "custom_model_data": 10007  
+            },
+            {
+                "name": "jade_axe",
+                "allow_offhand": true,
+                "icon": "jade_axe",
+                "custom_model_data": 10008  
+            },
+            {
+                "name": "ruby_axe",
+                "allow_offhand": true,
+                "icon": "more_ruby_axe",
+                "custom_model_data": 10009  
+            }
+        ],
+        "minecraft:iron_hoe": [
+            {
+                "name": "copperitems_copperhoe",
+                "allow_offhand": true,
+                "icon": "copperhoe",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iridium_hoe",
+                "allow_offhand": true,
+                "icon": "iridium_hoe",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "malachite_hoe",
+                "allow_offhand": true,
+                "icon": "malachite_hoe",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "amber_hoe",
+                "allow_offhand": true,
+                "icon": "amber_hoe",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "amethyst_hoe",
+                "allow_offhand": true,
+                "icon": "amethyst_hoe",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "mythril_hoe",
+                "allow_offhand": true,
+                "icon": "mythril_hoe",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "silver_hoe",
+                "allow_offhand": true,
+                "icon": "silver_hoe",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "jade_hoe",
+                "allow_offhand": true,
+                "icon": "jade_hoe",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "ruby_hoe",
+                "allow_offhand": true,
+                "icon": "more_ruby_hoe",
+                "custom_model_data": 10008
+            }
+        ],
+        "minecraft:iron_shovel": [
+            {
+                "name": "copperitems_coppershovel",
+                "allow_offhand": true,
+                "icon": "coppershovel",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iridium_shovel",
+                "allow_offhand": true,
+                "icon": "iridium_shovel",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "malachite_shovel",
+                "allow_offhand": true,
+                "icon": "malachite_shovel",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "amber_shovel",
+                "allow_offhand": true,
+                "icon": "amber_shovel",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "amethyst_shovel",
+                "allow_offhand": true,
+                "icon": "amethyst_shovel",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "mythril_shovel",
+                "allow_offhand": true,
+                "icon": "mythril_shovel",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "silver_shovel",
+                "allow_offhand": true,
+                "icon": "silver_shovel",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "jade_shovel",
+                "allow_offhand": true,
+                "icon": "jade_shovel",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "ruby_shovel",
+                "allow_offhand": true,
+                "icon": "more_ruby_shovel",
+                "custom_model_data": 10008
+            }
+        ],
+        "minecraft:diamond_pickaxe": [
+            {
+                "name": "nibrock_emerald_pickaxe",
+                "allow_offhand": true,
+                "icon": "emerald_pickaxe",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_diamond_hammer",
+                "allow_offhand": true,
+                "icon": "diamond_hammer",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_dark_amethyst_pickaxe",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_pickaxe",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_bronze_pickaxe",
+                "allow_offhand": true,
+                "icon": "bronze_pickaxe",
+                "custom_model_data": 10004
+            }
+        ],
+        "minecraft:diamond_axe": [
+            {
+                "name": "nibrock_emerald_axe",
+                "allow_offhand": true,
+                "icon": "emerald_axe",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_ruby_axe",
+                "allow_offhand": true,
+                "icon": "ruby_axe",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_dark_amethyst_axe",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_axe",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_bronze_axe",
+                "allow_offhand": true,
+                "icon": "bronze_axe",
+                "custom_model_data": 10004
+            }
+        ],
+        "minecraft:diamond_hoe": [
+            {
+                "name": "nibrock_emerald_hoe",
+                "allow_offhand": true,
+                "icon": "emerald_hoe",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_ruby_hoe",
+                "allow_offhand": true,
+                "icon": "ruby_hoe",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_bronze_hoe",
+                "allow_offhand": true,
+                "icon": "bronze_hoe",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_dark_amethyst_hoe",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_hoe",
+                "custom_model_data": 10003
+            }
+        ],
+        "minecraft:diamond_shovel": [
+            {
+                "name": "nibrock_emerald_shovel",
+                "allow_offhand": true,
+                "icon": "emerald_shovel",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_dark_amethyst_shovel",
+                "allow_offhand": true,
+                "icon": "dark_amethyst_shovel",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_ruby_shovel",
+                "allow_offhand": true,
+                "icon": "ruby_shovel",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_bronze_shovel",
+                "allow_offhand": true,
+                "icon": "bronze_shovel",
+                "custom_model_data": 10003
+            }
+        ],
+        
+        "minecraft:fishing_rod": [
+            {
+                "name": "iasurvival_black_fishing_rod",
+                "allow_offhand": true,
+                "icon": "black_fishing_rod",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_red_fishing_rod",
+                "allow_offhand": true,
+                "icon": "red_fishing_rod",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_green_fishing_rod",
+                "allow_offhand": true,
+                "icon": "green_fishing_rod",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_blue_fishing_rod",
+                "allow_offhand": true,
+                "icon": "blue_fishing_rod",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_purple_fishing_rod",
+                "allow_offhand": true,
+                "icon": "purple_fishing_rod",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_cyan_fishing_rod",
+                "allow_offhand": true,
+                "icon": "cyan_fishing_rod",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "nature_fishing_cane",
+                "allow_offhand": true,
+                "icon": "nature_fishing_cane",
+                "custom_model_data": 50001
+            },
+            {
+                "name": "silver_fishing_rod",
+                "allow_offhand": true,
+                "icon": "silver_fishing_rod",
+                "custom_model_data": 50002
+            },
+            {
+                "name": "golden_fishing_rod",
+                "allow_offhand": true,
+                "icon": "golden_fishing_rod",
+                "custom_model_data": 50003
+            },
+            {
+                "name": "star_fishing_rod",
+                "allow_offhand": true,
+                "icon": "star_fishing_rod",
+                "custom_model_data": 50004
+            }
+        ],
+        "minecraft:shears": [
+            {
+                "name": "iasurvival_black_shears",
+                "allow_offhand": true,
+                "icon": "black_shears",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "iasurvival_red_shears",
+                "allow_offhand": true,
+                "icon": "red_shears",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "iasurvival_green_shears",
+                "allow_offhand": true,
+                "icon": "green_shears",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "iasurvival_blue_shears",
+                "allow_offhand": true,
+                "icon": "blue_shears",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "iasurvival_purple_shears",
+                "allow_offhand": true,
+                "icon": "purple_shears",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "iasurvival_cyan_shears",
+                "allow_offhand": true,
+                "icon": "cyan_shears",
+                "custom_model_data": 10005
+            }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:snowball": [
+            {
+                "name": "sooj_soojmoney10",
+                "allow_offhand": true,
+                "icon": "sooj_soojmoney10",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "sooj_soojmoney20",
+                "allow_offhand": true,
+                "icon": "sooj_soojmoney20",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "sooj_soojmoney50",
+                "allow_offhand": true,
+                "icon": "sooj_soojmoney50",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "sooj_soojmoney100",
+                "allow_offhand": true,
+                "icon": "sooj_soojmoney100",
+                "custom_model_data": 10007
+            }
+        ]
+    }
+}

@@ -1,0 +1,1684 @@
+{
+	"format_version": 1,
+	"blocks": {
+		"minecraft:note_block[instrument=flute,note=15,powered=false]": {
+			"name": "gold_dirt_ore",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=2,powered=false]": {
+			"name": "cassiterite_block",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=10,powered=false]": { 
+			"name": "dark_amethyst_block",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=15,powered=false]": {
+			"name": "ruby_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=5,powered=false]": {
+			"name": "restoration_table",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=0,powered=false]": {
+			"name": "avocado_tree_log",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=1,powered=false]": {
+			"name": "avocado_stripped_log",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=2,powered=false]": {
+			"name": "avocado_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=3,powered=false]": {
+			"name": "banana_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=4,powered=false]": {
+			"name": "banana_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=5,powered=false]": {
+			"name": "cherry_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=6,powered=false]": {
+			"name": "cherry_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=7,powered=false]": {
+			"name": "decaying_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=8,powered=false]": {
+			"name": "decaying_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=9,powered=false]": {
+			"name": "dragonfruit_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=10,powered=false]": {
+			"name": "dragonfruit_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=11,powered=false]": {
+			"name": "guava_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=12,powered=false]": {
+			"name": "guava_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=13,powered=false]": {
+			"name": "lemon_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=14,powered=false]": {
+			"name": "lemon_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=15,powered=false]": {
+			"name": "lime_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=16,powered=false]": {
+			"name": "lime_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=17,powered=false]": {
+			"name": "mango_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=18,powered=false]": {
+			"name": "mango_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=19,powered=false]": {
+			"name": "maple_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=20,powered=false]": {
+			"name": "maple_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=21,powered=false]": {
+			"name": "nut_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=22,powered=false]": {
+			"name": "nut_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=23,powered=false]": {
+			"name": "olive_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=basedrum,note=24,powered=false]": {
+			"name": "olive_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=0,powered=false]": {
+			"name": "orange_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=1,powered=false]": {
+			"name": "orange_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=2,powered=false]": {
+			"name": "palm_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=3,powered=false]": {
+			"name": "palm_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=4,powered=false]": {
+			"name": "passionfruit_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=5,powered=false]": {
+			"name": "passionfruit_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=6,powered=false]": {
+			"name": "peach_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=7,powered=false]": {
+			"name": "peach_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=8,powered=false]": {
+			"name": "plum_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=9,powered=false]": {
+			"name": "plum_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=10,powered=false]": {
+			"name": "prune_tree_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=11,powered=false]": {
+			"name": "prune_planks", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=12,powered=false]": {
+			"name": "banana_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=13,powered=false]": {
+			"name": "cherry_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=14,powered=false]": {
+			"name": "decaying_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=15,powered=false]": {
+			"name": "dragonfruit_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=16,powered=false]": {
+			"name": "guava_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=17,powered=false]": {
+			"name": "lemon_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=18,powered=false]": {
+			"name": "lime_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=19,powered=false]": {
+			"name": "mango_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=20,powered=false]": {
+			"name": "maple_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=21,powered=false]": {
+			"name": "nut_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=22,powered=false]": {
+			"name": "olive_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=23,powered=false]": {
+			"name": "orange_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=snare,note=24,powered=false]": {
+			"name": "palm_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=0,powered=false]": {
+			"name": "passionfruit_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=1,powered=false]": {
+			"name": "peach_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=2,powered=false]": {
+			"name": "plum_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=3,powered=false]": {
+			"name": "prune_stripped_log",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=16,powered=false]": {
+			"name": "modern_quartz", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=16,powered=false]": {
+			"name": "modern_sandstone", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=19,powered=false]": {
+			"name": "crystal_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=18,powered=false]": {
+			"name": "turquoise_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=9,powered=false]": {
+			"name": "spinel_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=13,powered=false]": {
+			"name": "aqua_aura_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=1,powered=false]": {
+			"name": "spinel_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=12,powered=false]": {
+			"name": "cassiterite_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=22,powered=false]": {
+			"name": "end_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=17,powered=false]": {
+			"name": "coal_dirt_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=14,powered=false]": {
+			"name": "aqua_aura_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+		"minecraft:note_block[instrument=bass,note=1,powered=false]": {
+			"name": "andesite_cut", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=2,powered=false]": {
+			"name": "andesite_cut_basketweave", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=3,powered=false]": {
+			"name": "andesite_cut_bond", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=4,powered=false]": {
+			"name": "andesite_cut_brick", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=5,powered=false]": {
+			"name": "andesite_cut_herring", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=6,powered=false]": {
+			"name": "andesite_cut_polished", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=7,powered=false]": {
+			"name": "andesite_cut_square", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=8,powered=false]": {
+			"name": "andesite_cut_slab",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=9,powered=false]": {
+			"name": "andesite_cut_pillar",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=10,powered=false]": {
+			"name": "andesite_cut_pillar_x",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=11,powered=false]": {
+			"name": "andesite_cut_pillar_z",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=20,powered=false]": {
+			"name": "nice_wood", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=21,powered=false]": {
+			"name": "ruby_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=12,powered=false]": {
+			"name": "cny_patterened_floor", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=13,powered=false]": {
+			"name": "cny_patterened_floor2", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=14,powered=false]": {
+			"name": "cny_pillar",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=15,powered=false]": {
+			"name": "diorite_cut", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=16,powered=false]": {
+			"name": "diorite_cut_basketweave", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=17,powered=false]": {
+			"name": "diorite_cut_bond", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=18,powered=false]": {
+			"name": "diorite_cut_brick", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=19,powered=false]": {
+			"name": "diorite_cut_herring", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=20,powered=false]": {
+			"name": "diorite_cut_polished", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=21,powered=false]": {
+			"name": "diorite_cut_square", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=22,powered=false]": {
+			"name": "diorite_cut_slab",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=23,powered=false]": {
+			"name": "diorite_cut_pillar",			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=24,powered=false]": {
+			"name": "diorite_cut_pillar_x",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=0,powered=false]": {
+			"name": "diorite_cut_pillar_z",
+			
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=7,powered=false]": {
+			"name": "nice_stone", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=11,powered=false]": {
+			"name": "forgotten_crying_obsidian", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=6,powered=false]": {
+			"name": "modern_stone", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=4,powered=false]": {
+			"name": "granite_cut", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=5,powered=false]": {
+			"name": "granite_cut_basketweave", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=6,powered=false]": {
+			"name": "granite_cut_bond", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=7,powered=false]": {
+			"name": "granite_cut_brick", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=8,powered=false]": {
+			"name": "granite_cut_herring", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=9,powered=false]": {
+			"name": "granite_cut_polished", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=10,powered=false]": {
+			"name": "granite_cut_square", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=11,powered=false]": {
+			"name": "granite_cut_slab",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=12,powered=false]": {
+			"name": "granite_cut_pillar",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=13,powered=false]": {
+			"name": "granite_cut_pillar_x",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=hat,note=14,powered=false]": {
+			"name": "granite_cut_pillar_z",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=24,powered=false]": {
+			"name": "turquoise_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=4,powered=false]": {
+			"name": "iron_dirt_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=3,powered=false]": {
+			"name": "dark_amethyst_prism_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=8,powered=false]": {
+			"name": "blaze_powder_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bass,note=23,powered=false]": {
+			"name": "customization_table",
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=0,powered=false]": {
+			"name": "dark_amethyst_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=19,powered=false]": {
+			"name": "mythril_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=20,powered=false]": {
+			"name": "mythril_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=21,powered=false]": {
+			"name": "raw_mythril_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=22,powered=false]": {
+			"name": "mythril_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=23,powered=false]": {
+			"name": "malachite_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=flute,note=24,powered=false]": {
+			"name": "malachite_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=0,powered=false]": {
+			"name": "raw_malachite_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=1,powered=false]": {
+			"name": "malachite_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=2,powered=false]": {
+			"name": "amethyst_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=3,powered=false]": {
+			"name": "amethyst_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=4,powered=false]": {
+			"name": "raw_amethyst_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=5,powered=false]": {
+			"name": "more_amethyst_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=6,powered=false]": {
+			"name": "amber_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=7,powered=false]": {
+			"name": "amber_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=8,powered=false]": {
+			"name": "raw_amber_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=9,powered=false]": {
+			"name": "amber_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=10,powered=false]": {
+			"name": "more_ruby_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=11,powered=false]": {
+			"name": "ruby_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=12,powered=false]": {
+			"name": "raw_ruby_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=13,powered=false]": {
+			"name": "more_ruby_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=14,powered=false]": {
+			"name": "jade_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=15,powered=false]": {
+			"name": "jade_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=16,powered=false]": {
+			"name": "raw_jade_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=17,powered=false]": {
+			"name": "jade_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=18,powered=false]": {
+			"name": "silver_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=19,powered=false]": {
+			"name": "silver_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=20,powered=false]": {
+			"name": "raw_silver_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=21,powered=false]": {
+			"name": "silver_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=22,powered=false]": {
+			"name": "iridium_ore", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=23,powered=false]": {
+			"name": "iridium_ore_deepslate", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=bell,note=24,powered=false]": {
+			"name": "raw_iridium_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        },
+        "minecraft:note_block[instrument=guitar,note=0,powered=false]": {
+			"name": "iridium_block", 
+			"material_instances": {
+				"*": {
+					"render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+				}
+			},
+			"place_air": true
+        }
+    }
+}

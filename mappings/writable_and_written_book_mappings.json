@@ -1,0 +1,21 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:writable_book": [
+            {
+                "name": "iasurvival_letter",
+                "allow_offhand": true,
+                "icon": "letter",
+                "custom_model_data": 10000
+            }
+        ],
+        "minecraft:written_book": [
+            {
+                "name": "iasurvival_letter_written_letter",
+                "allow_offhand": true,
+                "icon": "letter_written_letter",
+                "custom_model_data": 10000
+            }
+        ]
+    }
+}

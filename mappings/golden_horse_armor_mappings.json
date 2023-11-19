@@ -1,0 +1,35 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:golden_horse_armor":[
+            {
+                "name": "watering_can_1",
+                "allow_offhand": true,
+                "icon": "gold_horse_armor",
+                "frame": 0,
+                "custom_model_data": 10000
+            },
+            {
+                "name": "watering_can_2",
+                "allow_offhand": true,
+                "icon": "gold_horse_armor",
+                "frame": 0,
+                "custom_model_data": 10001
+            },
+            {
+                "name": "watering_can_3",
+                "allow_offhand": true,
+                "icon": "gold_horse_armor",
+                "frame": 0,
+                "custom_model_data": 10002
+            },
+            {
+                "name": "watering_can_4",
+                "allow_offhand": true,
+                "icon": "gold_horse_armor",
+                "frame": 0,
+                "custom_model_data": 10003
+            }
+        ]
+    }
+}

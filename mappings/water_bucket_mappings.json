@@ -1,0 +1,13 @@
+{
+    "format_version": "1",
+    "items": {
+        "minecraft:water_bucket": [
+            {
+                "name": "iasurvival_boiled_water_bucket",
+                "allow_offhand": true,
+                "icon": "boiled_water_bucket",
+                "custom_model_data": 10000
+            }
+        ]
+    }
+}

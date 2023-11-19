@@ -1,0 +1,893 @@
+{
+	"format_version": [1, 1, 0],
+	"geyser_custom:gold_dirt_ore": {
+		"textures": "gold_dirt_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:cassiterite_block": {
+		"textures": "cassiterite_block",
+		"sound": "stone"
+	},
+	"geyser_custom:dark_amethyst_block": {
+		"textures": "dark_amethyst_block",
+		"sound": "stone"
+	},
+	"geyser_custom:ruby_ore": {
+		"textures": "ruby_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:restoration_table": {
+		"textures": {
+			"up": "restoration_table_up",
+			"side": "restoration_table_side",
+			"down": "restoration_table_down"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:avocado_tree_log": {
+		"textures": {
+			"up": "avocado_log_top",
+			"side": "avocado_log_down",
+			"down": "avocado_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:avocado_stripped_log": {
+		"textures": {
+			"up": "avocado_stripped_log_top",
+			"side": "avocado_stripped_log_down",
+			"down": "avocado_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:avocado_planks": {
+		"textures": "avocado_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:banana_tree_log": {
+		"textures": {
+			"up": "banana_log_top",
+			"side": "banana_log_down",
+			"down": "banana_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:banana_planks": {
+		"textures": "banana_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:cherry_tree_log": {
+		"textures": {
+			"up": "cherry_log_top",
+			"side": "cherry_log_down",
+			"down": "cherry_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:cherry_planks": {
+		"textures": "cherry_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:decaying_tree_log": {
+		"textures": {
+			"up": "decaying_log_top",
+			"side": "decaying_log_down",
+			"down": "decaying_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:decaying_planks": {
+		"textures": "decaying_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:dragonfruit_tree_log": {
+		"textures": {
+			"up": "dragonfruit_log_top",
+			"side": "dragonfruit_log_down",
+			"down": "dragonfruit_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:dragonfruit_planks": {
+		"textures": "dragonfruit_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:guava_tree_log": {
+		"textures": {
+			"up": "guava_log_top",
+			"side": "guava_log_down",
+			"down": "guava_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:guava_planks": {
+		"textures": "guava_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:lemon_tree_log": {
+		"textures": {
+			"up": "lemon_log_top",
+			"side": "lemon_log_down",
+			"down": "lemon_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:lemon_planks": {
+		"textures": "lemon_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:lime_tree_log": {
+		"textures": {
+			"up": "lime_log_top",
+			"side": "lime_log_down",
+			"down": "lime_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:lime_planks": {
+		"textures": "lime_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:mango_tree_log": {
+		"textures": {
+			"up": "mango_log_top",
+			"side": "mango_log_down",
+			"down": "mango_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:mango_planks": {
+		"textures": "mango_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:maple_tree_log": {
+		"textures": {
+			"up": "maple_log_top",
+			"side": "maple_log_down",
+			"down": "maple_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:maple_planks": {
+		"textures": "maple_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:nut_tree_log": {
+		"textures": {
+			"up": "nut_log_top",
+			"side": "nut_log_down",
+			"down": "nut_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:nut_planks": {
+		"textures": "nut_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:olive_tree_log": {
+		"textures": {
+			"up": "olive_log_top",
+			"side": "olive_log_down",
+			"down": "olive_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:olive_planks": {
+		"textures": "olive_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:orange_tree_log": {
+		"textures": {
+			"up": "orange_log_top",
+			"side": "orange_log_down",
+			"down": "orange_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:orange_planks": {
+		"textures": "orange_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:palm_tree_log": {
+		"textures": {
+			"up": "palm_log_top",
+			"side": "palm_log_down",
+			"down": "palm_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:palm_planks": {
+		"textures": "palm_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:passionfruit_tree_log": {
+		"textures": {
+			"up": "passionfruit_log_top",
+			"side": "passionfruit_log_down",
+			"down": "passionfruit_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:passionfruit_planks": {
+		"textures": "passionfruit_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:peach_tree_log": {
+		"textures": {
+			"up": "peach_log_top",
+			"side": "peach_log_down",
+			"down": "peach_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:peach_planks": {
+		"textures": "peach_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:plum_tree_log": {
+		"textures": {
+			"up": "plum_log_top",
+			"side": "plum_log_down",
+			"down": "plum_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:plum_planks": {
+		"textures": "plum_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:prune_tree_log": {
+		"textures": {
+			"up": "prune_log_top",
+			"side": "prune_log_down",
+			"down": "prune_log_top"
+		},
+		"sound": "stone"
+	},
+    "geyser_custom:prune_planks": {
+		"textures": "prune_planks",
+		"sound": "stone"
+	},
+	"geyser_custom:banana_stripped_log": {
+		"textures": {
+			"up": "banana_stripped_log_top",
+			"side": "banana_stripped_log_down",
+			"down": "banana_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:cherry_stripped_log": {
+		"textures": {
+			"up": "cherry_stripped_log_top",
+			"side": "cherry_stripped_log_down",
+			"down": "cherry_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:decaying_stripped_log": {
+		"textures": {
+			"up": "decaying_stripped_log_top",
+			"side": "decaying_stripped_log_down",
+			"down": "decaying_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:dragonfruit_stripped_log": {
+		"textures": {
+			"up": "dragonfruit_stripped_log_top",
+			"side": "dragonfruit_stripped_log_down",
+			"down": "dragonfruit_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:guava_stripped_log": {
+		"textures": {
+			"up": "guava_stripped_log_top",
+			"side": "guava_stripped_log_down",
+			"down": "guava_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:lemon_stripped_log": {
+		"textures": {
+			"up": "lemon_stripped_log_top",
+			"side": "lemon_stripped_log_down",
+			"down": "lemon_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:lime_stripped_log": {
+		"textures": {
+			"up": "lime_stripped_log_top",
+			"side": "lime_stripped_log_down",
+			"down": "lime_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:mango_stripped_log": {
+		"textures": {
+			"up": "mango_stripped_log_top",
+			"side": "mango_stripped_log_down",
+			"down": "mango_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:maple_stripped_log": {
+		"textures": {
+			"up": "maple_stripped_log_top",
+			"side": "maple_stripped_log_down",
+			"down": "maple_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:nut_stripped_log": {
+		"textures": {
+			"up": "nut_stripped_log_top",
+			"side": "nut_stripped_log_down",
+			"down": "nut_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:olive_stripped_log": {
+		"textures": {
+			"up": "olive_stripped_log_top",
+			"side": "olive_stripped_log_down",
+			"down": "olive_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:orange_stripped_log": {
+		"textures": {
+			"up": "orange_stripped_log_top",
+			"side": "orange_stripped_log_down",
+			"down": "orange_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:palm_stripped_log": {
+		"textures": {
+			"up": "palm_stripped_log_top",
+			"side": "palm_stripped_log_down",
+			"down": "palm_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:passionfruit_stripped_log": {
+		"textures": {
+			"up": "passionfruit_stripped_log_top",
+			"side": "passionfruit_stripped_log_down",
+			"down": "passionfruit_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:peach_stripped_log": {
+		"textures": {
+			"up": "peach_stripped_log_top",
+			"side": "peach_stripped_log_down",
+			"down": "peach_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:plum_stripped_log": {
+		"textures": {
+			"up": "plum_stripped_log_top",
+			"side": "plum_stripped_log_down",
+			"down": "plum_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:prune_stripped_log": {
+		"textures": {
+			"up": "prune_stripped_log_top",
+			"side": "prune_stripped_log_down",
+			"down": "prune_stripped_log_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:modern_quartz": {
+		"textures": "modern_quartz",
+		"sound": "stone"
+	},
+	"geyser_custom:modern_sandstone": {
+		"textures": "modern_sandstone",
+		"sound": "stone"
+	},
+	"geyser_custom:ia_crystal_block": {
+		"textures": "crystal_block",
+		"sound": "stone"
+	},
+	"geyser_custom:turquoise_ore": {
+		"textures": "turquoise_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:spinel_ore": {
+		"textures": "spinel_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:aqua_aura_ore": {
+		"textures": "aqua_aura_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:spinel_block": {
+		"textures": "spinel_block",
+		"sound": "stone"
+	},
+	"geyser_custom:cassiterite_ore": {
+		"textures": "cassiterite_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:end_ore": {
+		"textures": "end_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:coal_dirt_ore": {
+		"textures": "coal_dirt_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:aqua_aura_block": {
+		"textures": "aqua_aura_block",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut": {
+		"textures": "andesite_cut",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_basketweave": {
+		"textures": "andesite_cut_basketweave",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_bond": {
+		"textures": "andesite_cut_bond",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_brick": {
+		"textures": "andesite_cut_brick",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_herring": {
+		"textures": "andesite_cut_herring",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_polished": {
+		"textures": "andesite_cut_polished",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_square": {
+		"textures": "andesite_cut_square",
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_slab": {
+		"textures": {
+			"up": "andesite_cut_polished",
+			"side": "andesite_cut_slab_side",
+			"down": "andesite_cut_polished"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_pillar": {
+		"textures": {
+			"up": "andesite_cut_pillar_cap",
+			"side": "andesite_cut_pillar_side",
+			"down": "andesite_cut_pillar_cap"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_pillar_x": {
+		"textures": {
+			"up": "andesite_cut_pillar_side",
+			"north": "andesite_cut_pillar_side",
+			"south": "andesite_cut_pillar_side",
+			"east": "andesite_cut_pillar_cap",
+			"west": "andesite_cut_pillar_cap",
+			"down": "andesite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:andesite_cut_pillar_z": {
+		"textures": {
+			"up": "andesite_cut_pillar_side",
+			"north": "andesite_cut_pillar_cap",
+			"south": "andesite_cut_pillar_cap",
+			"east": "andesite_cut_pillar_side",
+			"west": "andesite_cut_pillar_side",
+			"down": "andesite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:nice_wood": {
+		"textures": "nice_wood",
+		"sound": "stone"
+	},
+	"geyser_custom:ruby_block": {
+		"textures": "ruby_block",
+		"sound": "stone"
+	},
+	"geyser_custom:cny_patterened_floor": {
+		"textures": "patterened_floor",
+		"sound": "stone"
+	},
+	"geyser_custom:cny_patterened_floor2": {
+		"textures": "patterened_floor2",
+		"sound": "stone"
+	},
+	"geyser_custom:cny_pillar": {
+		"textures": {
+			"up": "cny_pillar_top",
+			"side": "cny_pillar_side",
+			"down": "cny_pillar_top"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut": {
+		"textures": "diorite_cut",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_basketweave": {
+		"textures": "diorite_cut_basketweave",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_bond": {
+		"textures": "diorite_cut_bond",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_brick": {
+		"textures": "diorite_cut_brick",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_herring": {
+		"textures": "diorite_cut_herring",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_polished": {
+		"textures": "diorite_cut_polished",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_square": {
+		"textures": "diorite_cut_square",
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_slab": {
+		"textures": {
+			"up": "diorite_cut_polished",
+			"side": "diorite_cut_slab_side",
+			"down": "diorite_cut_polished"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_pillar": {
+		"textures": {
+			"up": "diorite_cut_pillar_cap",
+			"side": "diorite_cut_pillar_side",
+			"down": "diorite_cut_pillar_cap"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_pillar_x": {
+		"textures": {
+			"up": "diorite_cut_pillar_side",
+			"north": "diorite_cut_pillar_side",
+			"south": "diorite_cut_pillar_side",
+			"east": "diorite_cut_pillar_cap",
+			"west": "diorite_cut_pillar_cap",
+			"down": "diorite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:diorite_cut_pillar_z": {
+		"textures": {
+			"up": "diorite_cut_pillar_side",
+			"north": "diorite_cut_pillar_cap",
+			"south": "adiorite_cut_pillar_cap",
+			"east": "diorite_cut_pillar_side",
+			"west": "diorite_cut_pillar_side",
+			"down": "diorite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:nice_stone": {
+		"textures": "nice_stone",
+		"sound": "stone"
+	},
+	"geyser_custom:forgotten_crying_obsidian": {
+		"textures": "forgotten_crying_obsidian",
+		"sound": "stone"
+	},
+	"geyser_custom:modern_stone": {
+		"textures": "modern_stone",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut": {
+		"textures": "granite_cut",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_basketweave": {
+		"textures": "granite_cut_basketweave",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_bond": {
+		"textures": "granite_cut_bond",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_brick": {
+		"textures": "granite_cut_brick",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_herring": {
+		"textures": "granite_cut_herring",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_polished": {
+		"textures": "granite_cut_polished",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_square": {
+		"textures": "granite_cut_square",
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_slab": {
+		"textures": {
+			"up": "granite_cut_polished",
+			"side": "granite_cut_slab_side",
+			"down": "granite_cut_polished"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_pillar": {
+		"textures": {
+			"up": "granite_cut_pillar_cap",
+			"side": "granite_cut_pillar_side",
+			"down": "granite_cut_pillar_cap"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_pillar_x": {
+		"textures": {
+			"up": "granite_cut_pillar_side",
+			"north": "granite_cut_pillar_side",
+			"south": "granite_cut_pillar_side",
+			"east": "granite_cut_pillar_cap",
+			"west": "granite_cut_pillar_cap",
+			"down": "granite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:granite_cut_pillar_z": {
+		"textures": {
+			"up": "granite_cut_pillar_side",
+			"north": "granite_cut_pillar_cap",
+			"south": "granite_cut_pillar_cap",
+			"east": "granite_cut_pillar_side",
+			"west": "granite_cut_pillar_side",
+			"down": "granite_cut_pillar_side"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:turquoise_block": {
+		"textures": "turquoise_block",
+		"sound": "stone"
+	},
+	"geyser_custom:iron_dirt_ore": {
+		"textures": "iron_dirt_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:dark_amethyst_prism_block": {
+		"textures": "dark_amethyst_prism_block",
+		"sound": "stone"
+	},
+	"geyser_custom:blaze_powder_ore": {
+		"textures": "blaze_powder_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:customization_table": {
+		"textures": {
+			"up": "customization_table_up",
+			"side": "customization_table_side",
+			"down": "customization_table_down"
+		},
+		"sound": "stone"
+	},
+	"geyser_custom:dark_amethyst_ore": {
+		"textures": "dark_amethyst_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:avocado_tree_leaves": {
+		"textures": "avocado_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:banana_tree_leaves": {
+		"textures": "banana_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:cherry_tree_leaves": {
+		"textures": "cherry_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:decaying_tree_leaves": {
+		"textures": "decaying_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:dragonfruit_tree_leaves": {
+		"textures": "dragonfruit_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:guava_tree_leaves": {
+		"textures": "guava_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:lemon_tree_leaves": {
+		"textures": "lemon_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:lime_tree_leaves": {
+		"textures": "lime_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:mango_tree_leaves": {
+		"textures": "mango_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:maple_tree_leaves": {
+		"textures": "maple_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:nut_tree_leaves": {
+		"textures": "nut_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:olive_tree_leaves": {
+		"textures": "olive_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:orange_tree_leaves": {
+		"textures": "orange_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:palm_tree_leaves": {
+		"textures": "palm_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:passionfruit_tree_leaves": {
+		"textures": "passionfruit_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:peach_tree_leaves": {
+		"textures": "peach_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:plum_tree_leaves": {
+		"textures": "plum_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:prune_tree_leaves": {
+		"textures": "prune_leaves",
+		"sound": "stone"
+	},
+	"geyser_custom:amber_ore": {
+		"textures": "amber_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:amethyst_ore": {
+		"textures": "amethyst_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:amber_ore_deepslate": {
+		"textures": "deepslate_amber_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:amethyst_ore_deepslate": {
+		"textures": "deepslate_amethyst_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:iridium_ore_deepslate": {
+		"textures": "deepslate_iridium_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:jade_ore_deepslate": {
+		"textures": "deepslate_jade_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:malachite_ore_deepslate": {
+		"textures": "deepslate_malachite_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:mythril_ore_deepslate": {
+		"textures": "deepslate_mythril_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:ruby_ore_deepslate": {
+		"textures": "deepslate_ruby_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:silver_ore_deepslate": {
+		"textures": "deepslate_silver_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:iridium_ore": {
+		"textures": "iridium_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:jade_ore": {
+		"textures": "jade_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:malachite_ore": {
+		"textures": "malachite_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:mythril_ore": {
+		"textures": "mythril_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:more_ruby_ore": {
+		"textures": "more_ruby_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:silver_ore": {
+		"textures": "silver_ore",
+		"sound": "stone"
+	},
+	"geyser_custom:amber_block": {
+		"textures": "amber_block",
+		"sound": "stone"
+	},
+	"geyser_custom:more_amethyst_block": {
+		"textures": "more_amethyst_block",
+		"sound": "stone"
+	},
+	"geyser_custom:iridium_block": {
+		"textures": "iridium_block",
+		"sound": "stone"
+	},
+	"geyser_custom:jade_block": {
+		"textures": "jade_block",
+		"sound": "stone"
+	},
+	"geyser_custom:malachite_block": {
+		"textures": "malachite_block",
+		"sound": "stone"
+	},
+	"geyser_custom:mythril_block": {
+		"textures": "mythril_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_amber_block": {
+		"textures": "raw_amber_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_amethyst_block": {
+		"textures": "raw_amethyst_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_iridium_block": {
+		"textures": "raw_iridium_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_jade_block": {
+		"textures": "raw_jade_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_malachite_block": {
+		"textures": "raw_malachite_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_mythril_block": {
+		"textures": "raw_mythril_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_ruby_block": {
+		"textures": "raw_ruby_block",
+		"sound": "stone"
+	},
+	"geyser_custom:raw_silver_block": {
+		"textures": "raw_silver_block",
+		"sound": "stone"
+	},
+	"geyser_custom:more_ruby_block": {
+		"textures": "more_ruby_block",
+		"sound": "stone"
+	},
+	"geyser_custom:silver_block": {
+		"textures": "silver_block",
+		"sound": "stone"
+	}
+}
