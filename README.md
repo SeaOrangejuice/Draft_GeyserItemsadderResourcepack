@@ -1,4 +1,5 @@
 # Draft_GeyserItemsadderResourcepack
+## This resource is not allowed for profit! ! !
 ***This is a draft of my early learning about Geyser's custom.***  
 The draft of a resource pack made a year ago to be compatible with IADefaultPack and other configurations.  
 The whole resource pack uses very old stuff and is not aesthetically pleasing. In fact, I still haven't learned how to make Bedrock Edition resource packs.  
