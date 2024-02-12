@@ -554,6 +554,7 @@
         ]
       },
       "large_chest_panel/root_panel": {
+        "$gui_title": "$container_title"
         "controls": "$controls",
         "$controls|default": [
           { "common_panel@common.common_panel": {} },
@@ -574,7 +575,7 @@
         ],
         "variables": [
           {
-            "requires": "(not (($container_title - '鄿') = $container_title))",
+            "requires": "(not (($gui_title - '鄿') = $gui_title))",
             "$controls": [
               { "chest_blank_menu_container@chest.chest_blank_menu_container": {} },
               { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
@@ -582,7 +583,7 @@
             ]
           },
           {
-            "requires": "(not (($container_title - '') = $container_title))",
+            "requires": "(not (($gui_title - '') = $gui_title))",
             "$controls": [
               { "chest_anvil_repair_menu_container@chest.chest_anvil_repair_menu_container": {} },
               { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
@@ -590,7 +591,7 @@
             ]
           },
           {
-            "requires": "(not (($container_title - '') = $container_title))",
+            "requires": "(not (($gui_title - '') = $gui_title))",
             "$controls": [
               { "chest_crafting_menu_container@chest.chest_crafting_menu_container": {} },
               { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
@@ -598,7 +599,7 @@
             ]
           },
           {
-            "requires": "(not (($container_title - '') = $container_title))",
+            "requires": "(not (($gui_title - '') = $gui_title))",
             "$controls": [
               { "chest_no_recipe_menu_container@chest.chest_no_recipe_menu_container": {} },
               { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
@@ -606,7 +607,7 @@
             ]
           },
           {
-            "requires": "(not (($container_title - '') = $container_title))",
+            "requires": "(not (($gui_title - '') = $gui_title))",
             "$controls": [
               { "chest_smithing_menu_container@chest.chest_smithing_menu_container": {} },
               { "inventory_selected_icon_button@common.inventory_selected_icon_button": {} },
